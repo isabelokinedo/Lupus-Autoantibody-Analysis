@@ -1,0 +1,93 @@
+Protein,Family,Subfamily,PlotOrder
+CCL17,Chemokines,CC chemokines,1
+CCL19,Chemokines,CC chemokines,2
+CCL20,Chemokines,CC chemokines,3
+CCL23,Chemokines,CC chemokines,4
+CCL3,Chemokines,CC chemokines,5
+CCL4,Chemokines,CC chemokines,6
+MCP-1,Chemokines,CC chemokines,7
+MCP-2,Chemokines,CC chemokines,8
+MCP-3,Chemokines,CC chemokines,9
+MCP-4,Chemokines,CC chemokines,10
+CX3CL1,Chemokines,CX3C chemokine,11
+CXCL1,Chemokines,CXC neutrophil-attracting chemokines,12
+CXCL5,Chemokines,CXC neutrophil-attracting chemokines,13
+IL8,Chemokines,CXC neutrophil-attracting chemokines,14
+CXCL12,Chemokines,Homeostatic and lymphoid CXC chemokines,15
+CXCL13,Chemokines,Homeostatic and lymphoid CXC chemokines,16
+CXCL10,Chemokines,Interferon-inducible CXC chemokines,17
+CXCL11,Chemokines,Interferon-inducible CXC chemokines,18
+CXCL9,Chemokines,Interferon-inducible CXC chemokines,19
+IL-1 alpha,Interleukins,IL-1 family,20
+IL18,Interleukins,IL-1 family,21
+IL33,Interleukins,IL-1 family,22
+IL10,Interleukins,Interleukin ligands,23
+IL12,Interleukins,Interleukin ligands,24
+IL13,Interleukins,Interleukin ligands,25
+IL15,Interleukins,Interleukin ligands,26
+IL2,Interleukins,Interleukin ligands,27
+IL4,Interleukins,Interleukin ligands,28
+IL5,Interleukins,Interleukin ligands,29
+IL6,Interleukins,Interleukin ligands,30
+IL7,Interleukins,Interleukin ligands,31
+IL12RB1,Interleukins,Interleukin receptors,32
+IFN-gamma,Interferons,Type II interferon,33
+CD27,TNF superfamily,TNF receptor superfamily,34
+CD40,TNF superfamily,TNF receptor superfamily,35
+TNFRSF12A,TNF superfamily,TNF receptor superfamily,36
+TNFRSF21,TNF superfamily,TNF receptor superfamily,37
+TNFRSF4,TNF superfamily,TNF receptor superfamily,38
+TNFRSF9,TNF superfamily,TNF receptor superfamily,39
+CD40-L,TNF superfamily,TNF superfamily ligands,40
+CD70,TNF superfamily,TNF superfamily ligands,41
+FASLG,TNF superfamily,TNF superfamily ligands,42
+TNF,TNF superfamily,TNF superfamily ligands,43
+TNFSF14,TNF superfamily,TNF superfamily ligands,44
+TRAIL,TNF superfamily,TNF superfamily ligands,45
+TWEAK,TNF superfamily,TNF superfamily ligands,46
+LAP TGF-beta-1,TGF-beta signaling,Latent TGF-beta complex,47
+EGF,Growth factors,Mitogenic and trophic growth factors,48
+FGF2,Growth factors,Mitogenic and trophic growth factors,49
+HGF,Growth factors,Mitogenic and trophic growth factors,50
+PDGF subunit B,Growth factors,Mitogenic and trophic growth factors,51
+PTN,Growth factors,Mitogenic and trophic growth factors,52
+CSF-1,Hematopoietic growth factors,Monocyte and macrophage growth factor,53
+ANGPT1,Angiogenesis and vascular biology,Angiogenic ligands,54
+ANGPT2,Angiogenesis and vascular biology,Angiogenic ligands,55
+PGF,Angiogenesis and vascular biology,Angiogenic ligands,56
+VEGFA,Angiogenesis and vascular biology,Angiogenic ligands,57
+NOS3,Angiogenesis and vascular biology,Endothelial function,58
+TIE2,Angiogenesis and vascular biology,Vascular growth factor receptors,59
+VEGFR-2,Angiogenesis and vascular biology,Vascular growth factor receptors,60
+ADGRG1,Immune cell identity and activation,Adhesion GPCR and immune-cell marker,61
+CD83,Immune cell identity and activation,Antigen-presenting cell maturation,62
+LAMP3,Immune cell identity and activation,Antigen-presenting cell maturation,63
+CD244,Immune cell identity and activation,Lymphocyte receptors and markers,64
+CD28,Immune cell identity and activation,Lymphocyte receptors and markers,65
+CD4,Immune cell identity and activation,Lymphocyte receptors and markers,66
+CD5,Immune cell identity and activation,Lymphocyte receptors and markers,67
+CD8A,Immune cell identity and activation,Lymphocyte receptors and markers,68
+CRTAM,Immune cell identity and activation,Lymphocyte receptors and markers,69
+KIR3DL1,Immune cell identity and activation,Lymphocyte receptors and markers,70
+KLRD1,Immune cell identity and activation,Lymphocyte receptors and markers,71
+NCR1,Immune cell identity and activation,Lymphocyte receptors and markers,72
+MIC-A/B,Immune cell identity and activation,Stress-induced immune ligands,73
+ICOSLG,Immune checkpoints,Costimulatory checkpoint ligand,74
+Gal-1,Immune checkpoints,Immunoregulatory galectins,75
+Gal-9,Immune checkpoints,Immunoregulatory galectins,76
+LAG3,Immune checkpoints,Inhibitory checkpoint axis,77
+PD-L1,Immune checkpoints,Inhibitory checkpoint axis,78
+PD-L2,Immune checkpoints,Inhibitory checkpoint axis,79
+PDCD1,Immune checkpoints,Inhibitory checkpoint axis,80
+GZMA,Cytotoxic effector molecules,Granzymes,81
+GZMB,Cytotoxic effector molecules,Granzymes,82
+GZMH,Cytotoxic effector molecules,Granzymes,83
+CASP-8,Cell death and apoptosis,Caspases,84
+DCN,Matrix remodeling,Extracellular matrix proteoglycan,85
+MMP12,Matrix remodeling,Matrix metalloproteinases,86
+MMP7,Matrix remodeling,Matrix metalloproteinases,87
+CAIX,Metabolism and immunometabolism,Hypoxia and pH regulation,88
+ADA,Metabolism and immunometabolism,Immune metabolic enzymes,89
+ARG1,Metabolism and immunometabolism,Immune metabolic enzymes,90
+HO-1,Stress response,Oxidative stress and heme metabolism,91
+MUC-16,Epithelial and tumor-associated,Mucin and epithelial marker,92

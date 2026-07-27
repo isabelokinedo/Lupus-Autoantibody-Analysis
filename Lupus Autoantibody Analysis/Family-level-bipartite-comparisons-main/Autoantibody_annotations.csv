@@ -1,0 +1,120 @@
+Antibody,Family,Subfamily,PlotOrder
+CENP-A,Nuclear and chromatin,Centromere,1
+CENP-B,Nuclear and chromatin,Centromere,2
+dsDNA,Nuclear and chromatin,DNA,3
+Genomic DNA,Nuclear and chromatin,DNA,4
+ssDNA,Nuclear and chromatin,DNA,5
+KU (P70/P80),Nuclear and chromatin,DNA double-strand break repair,6
+DNA Polymerase beta (POLB),Nuclear and chromatin,DNA replication and repair,7
+PCNA,Nuclear and chromatin,DNA replication and repair,8
+Scl-70/Topoisomerase I,Nuclear and chromatin,DNA replication and repair,9
+Core Histone,Nuclear and chromatin,Histones,10
+Histone H1,Nuclear and chromatin,Histones,11
+Histone H2A,Nuclear and chromatin,Histones,12
+Histone H2B,Nuclear and chromatin,Histones,13
+Histone H3,Nuclear and chromatin,Histones,14
+Histone H4,Nuclear and chromatin,Histones,15
+SP100,Nuclear and chromatin,Nuclear body proteins,16
+GP210,Nuclear and chromatin,Nuclear pore complex,17
+Nup 62,Nuclear and chromatin,Nuclear pore complex,18
+PM/Scl 100,Nuclear and chromatin,Nucleolar exosome complex,19
+PM/Scl-75,Nuclear and chromatin,Nucleolar exosome complex,20
+Nucleolin,Nuclear and chromatin,Nucleolar proteins,21
+Nucleosome antigen,Nuclear and chromatin,Nucleosomes,22
+Mi-2,Nuclear and chromatin,Transcription and chromatin regulation,23
+T1F1 gama,Nuclear and chromatin,Transcription and chromatin regulation,24
+Ribo Phosphoprotein P0,RNA-associated autoantigens,Ribosomal P proteins,25
+Ribo Phosphoprotein P1,RNA-associated autoantigens,Ribosomal P proteins,26
+Ribo Phosphoprotein P2,RNA-associated autoantigens,Ribosomal P proteins,27
+ssRNA,RNA-associated autoantigens,RNA,28
+La/SSB,RNA-associated autoantigens,Ro/La ribonucleoproteins,29
+Ro/SSA (52 Kda),RNA-associated autoantigens,Ro/La ribonucleoproteins,30
+Ro/SSA (60 Kda),RNA-associated autoantigens,Ro/La ribonucleoproteins,31
+Sm,RNA-associated autoantigens,Spliceosomal snRNP,32
+Sm/RNP,RNA-associated autoantigens,Spliceosomal snRNP,33
+SmD,RNA-associated autoantigens,Spliceosomal snRNP,34
+SmD1,RNA-associated autoantigens,Spliceosomal snRNP,35
+SmD2,RNA-associated autoantigens,Spliceosomal snRNP,36
+SmD3,RNA-associated autoantigens,Spliceosomal snRNP,37
+U1-snRNP 68/70,RNA-associated autoantigens,Spliceosomal snRNP,38
+U1-snRNP A,RNA-associated autoantigens,Spliceosomal snRNP,39
+U1-snRNP B/B',RNA-associated autoantigens,Spliceosomal snRNP,40
+U1-snRNP C,RNA-associated autoantigens,Spliceosomal snRNP,41
+Jo-1,Myositis-associated antigens,Aminoacyl-tRNA synthetase and myositis antigens,42
+MDA5,Myositis-associated antigens,Aminoacyl-tRNA synthetase and myositis antigens,43
+PL-12,Myositis-associated antigens,Aminoacyl-tRNA synthetase and myositis antigens,44
+PL-7,Myositis-associated antigens,Aminoacyl-tRNA synthetase and myositis antigens,45
+SRP54,Myositis-associated antigens,Aminoacyl-tRNA synthetase and myositis antigens,46
+Alpha Fodrin,Cytoskeletal and contractile,Cytoskeletal proteins,47
+alpha-actinine,Cytoskeletal and contractile,Cytoskeletal proteins,48
+Myosin,Cytoskeletal and contractile,Cytoskeletal proteins,49
+Vimentin,Cytoskeletal and contractile,Cytoskeletal proteins,50
+Fibronectin,Extracellular matrix,Adhesive glycoproteins,51
+Vitronectin,Extracellular matrix,Adhesive glycoproteins,52
+Entaktin EDTA,Extracellular matrix,Basement membrane,53
+GBM,Extracellular matrix,Basement membrane,54
+Laminin,Extracellular matrix,Basement membrane,55
+Matrigel,Extracellular matrix,Basement membrane,56
+Collagen I,Extracellular matrix,Collagens,57
+Collagen II,Extracellular matrix,Collagens,58
+Collagen III,Extracellular matrix,Collagens,59
+Collagen IV,Extracellular matrix,Collagens,60
+Collagen V,Extracellular matrix,Collagens,61
+Collagen VI,Extracellular matrix,Collagens,62
+Elastin,Extracellular matrix,Elastic fibers,63
+Aggrecan,Extracellular matrix,Proteoglycans and glycosaminoglycans,64
+Chondroitin Sulfate C,Extracellular matrix,Proteoglycans and glycosaminoglycans,65
+Decorin-bovine,Extracellular matrix,Proteoglycans and glycosaminoglycans,66
+Heparan sulfate proteoglycan,Extracellular matrix,Proteoglycans and glycosaminoglycans,67
+Heparan Sulphate,Extracellular matrix,Proteoglycans and glycosaminoglycans,68
+Heparin,Extracellular matrix,Proteoglycans and glycosaminoglycans,69
+Proteoglycan,Extracellular matrix,Proteoglycans and glycosaminoglycans,70
+Factor B,Complement,Alternative pathway,71
+Factor D,Complement,Alternative pathway,72
+Factor P,Complement,Alternative pathway,73
+complement C3,Complement,Central and effector components,74
+complement C3a,Complement,Central and effector components,75
+complement C5,Complement,Central and effector components,76
+complement C4,Complement,Classical and lectin pathways,77
+complement C1q,Complement,Classical pathway,78
+Factor H,Complement,Complement regulators,79
+Factor I,Complement,Complement regulators,80
+complement C6,Complement,Terminal complement complex,81
+complement C7,Complement,Terminal complement complex,82
+complement C8,Complement,Terminal complement complex,83
+complement C9,Complement,Terminal complement complex,84
+B2 glycoprotein 1,Antiphospholipid and coagulation,Antiphospholipid-associated targets,85
+Cardolipin,Antiphospholipid and coagulation,Antiphospholipid-associated targets,86
+Prothrombin protein,Antiphospholipid and coagulation,Antiphospholipid-associated targets,87
+Sphingomyelin,Antiphospholipid and coagulation,Membrane lipids,88
+Fibrinogen IV,Hemostasis and plasma proteins,Fibrinogen-related,89
+Fibrinogen S,Hemostasis and plasma proteins,Fibrinogen-related,90
+Amyloid,Neural and CNS,Neural structural and membrane targets,91
+AQP4,Neural and CNS,Neural structural and membrane targets,92
+Myelin basic protein (MBP),Neural and CNS,Neural structural and membrane targets,93
+AGTR,Cell-surface receptors,G-protein-coupled receptors,94
+Muscarinic receptor,Cell-surface receptors,G-protein-coupled receptors,95
+B2-microglobulin,Immune cell and MHC-associated,MHC class I-associated,96
+MPO,Neutrophil granule antigens,ANCA-associated antigens,97
+PR3,Neutrophil granule antigens,ANCA-associated antigens,98
+CRP,Inflammation and damage-associated,Inflammatory and alarmin proteins,99
+S100,Inflammation and damage-associated,Inflammatory and alarmin proteins,100
+Peroxiredoxin 1,Inflammation and damage-associated,Oxidative stress proteins,101
+TNF-alpha,Cytokines and immune mediators,TNF-related,102
+Cytochrome C,Organellar and liver-associated,Mitochondrial and liver autoantigens,103
+LC1,Organellar and liver-associated,Mitochondrial and liver autoantigens,104
+LKM1,Organellar and liver-associated,Mitochondrial and liver autoantigens,105
+M2,Organellar and liver-associated,Mitochondrial and liver autoantigens,106
+Mitochondrial antigen,Organellar and liver-associated,Mitochondrial and liver autoantigens,107
+Gliadin,Gastrointestinal and pancreatic,Celiac-associated antigens,108
+TTG,Gastrointestinal and pancreatic,Celiac-associated antigens,109
+Intrinsic Factor,Gastrointestinal and pancreatic,Gastric antigens,110
+GP2,Gastrointestinal and pancreatic,Pancreatic and intestinal antigens,111
+Insulin,Endocrine,Pancreatic endocrine antigen,112
+Thyroglobulin,Endocrine,Thyroid antigens,113
+TPO,Endocrine,Thyroid antigens,114
+Glycated Albumin,Modified and circulating proteins,Glycation-associated,115
+LPS,Microbial antigens,Bacterial antigens,116
+EBNA1,Microbial antigens,Viral antigens,117
+Hemocyanin,Experimental and xenogeneic antigens,Carrier and xenogeneic proteins,118
+DGPS,Gastrointestinal and pancreatic,Celiac-associated antigens,119
