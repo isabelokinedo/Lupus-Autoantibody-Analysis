@@ -46,7 +46,7 @@ protein_annot <- read.csv(
 # 3. Fix first column of correlation matrix
 ############################################################
 
-# write.csv() usually saves matrix row names as the first column
+# write.csv() saves matrix row names as the first column
 # with a blank header or a name such as X
 names(cor_mat)[1] <- "Antibody"
 
