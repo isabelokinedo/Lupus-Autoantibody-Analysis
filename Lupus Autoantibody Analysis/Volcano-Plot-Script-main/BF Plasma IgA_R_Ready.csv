@@ -1,0 +1,1921 @@
+Sample_ID,Antibody,Isotype,Diagnosis,Sample_Type,Score
+18_Plasma,ACE2,IgA,Lupus,Plasma,17.8654480535594
+18_Plasma,Aggrecan,IgA,Lupus,Plasma,16.4063698258389
+18_Plasma,Alpha Fodrin,IgA,Lupus,Plasma,19.0217396963442
+18_Plasma,Amyloid Beta(1-40),IgA,Lupus,Plasma,14.6868153163841
+18_Plasma,Amyloid Beta(1-42),IgA,Lupus,Plasma,16.20902149774
+18_Plasma,AQP4,IgA,Lupus,Plasma,14.7599954297589
+18_Plasma,BAFF,IgA,Lupus,Plasma,16.6696403521793
+18_Plasma,BCOADC-E2,IgA,Lupus,Plasma,16.0603411769979
+18_Plasma,Beta2-Glycoprotein 1,IgA,Lupus,Plasma,14.5299855811443
+18_Plasma,BPI,IgA,Lupus,Plasma,14.9844393985559
+18_Plasma,Calprotectin/S100,IgA,Lupus,Plasma,12.8181163818022
+18_Plasma,CD4,IgA,Lupus,Plasma,13.4153829971924
+18_Plasma,CD40,IgA,Lupus,Plasma,15.985927439983
+18_Plasma,CENP-A,IgA,Lupus,Plasma,16.1178451749195
+18_Plasma,CENP-B,IgA,Lupus,Plasma,15.583316024216
+18_Plasma,Collagen I,IgA,Lupus,Plasma,1.44269431942324e-06
+18_Plasma,Collagen II,IgA,Lupus,Plasma,16.9899154910845
+18_Plasma,Collagen III,IgA,Lupus,Plasma,14.2753229379368
+18_Plasma,Collagen IV,IgA,Lupus,Plasma,12.4125384892813
+18_Plasma,Collagen V,IgA,Lupus,Plasma,17.3913722944347
+18_Plasma,Complement C1q,IgA,Lupus,Plasma,18.9833981621976
+18_Plasma,Complement C3,IgA,Lupus,Plasma,15.7077423442392
+18_Plasma,Complement C4,IgA,Lupus,Plasma,15.560826011582
+18_Plasma,Complement C5,IgA,Lupus,Plasma,17.8640328828179
+18_Plasma,Complement C6,IgA,Lupus,Plasma,16.0038912524941
+18_Plasma,Complement C7,IgA,Lupus,Plasma,15.1073393250827
+18_Plasma,Complement C8,IgA,Lupus,Plasma,16.9919416483984
+18_Plasma,Complement C9,IgA,Lupus,Plasma,16.5374931196201
+18_Plasma,CRP,IgA,Lupus,Plasma,18.1669312766238
+18_Plasma,Cytochrome C,IgA,Lupus,Plasma,9.72768650803917
+18_Plasma,DFS70,IgA,Lupus,Plasma,13.745167385385
+18_Plasma,dsDNA,IgA,Lupus,Plasma,16.7773486788932
+18_Plasma,EJ,IgA,Lupus,Plasma,16.1435943340032
+18_Plasma,FACTOR B,IgA,Lupus,Plasma,14.5210176007969
+18_Plasma,FACTOR H,IgA,Lupus,Plasma,16.3838118527992
+18_Plasma,FACTOR I,IgA,Lupus,Plasma,9.49209602972729
+18_Plasma,FACTOR P,IgA,Lupus,Plasma,7.66175494322133
+18_Plasma,Fibrinogen Type I-S,IgA,Lupus,Plasma,18.1218773181675
+18_Plasma,Fibronectin,IgA,Lupus,Plasma,14.2690096709892
+18_Plasma,GAD65,IgA,Lupus,Plasma,18.5798777050187
+18_Plasma,GBM,IgA,Lupus,Plasma,14.7668213958233
+18_Plasma,Genomic DNA,IgA,Lupus,Plasma,17.0843825728028
+18_Plasma,Gliadin,IgA,Lupus,Plasma,13.1357975683248
+18_Plasma,gp210,IgA,Lupus,Plasma,14.8417247993206
+18_Plasma,GP2,IgA,Lupus,Plasma,15.3526586752191
+18_Plasma,H/K-ATPase,IgA,Lupus,Plasma,10.8282015547802
+18_Plasma,Histone,IgA,Lupus,Plasma,22.2033435559281
+18_Plasma,Histone H1,IgA,Lupus,Plasma,21.6677423942089
+18_Plasma,Histone H2A,IgA,Lupus,Plasma,20.1701284726853
+18_Plasma,Histone H2B,IgA,Lupus,Plasma,19.8327286113066
+18_Plasma,Histone H3,IgA,Lupus,Plasma,19.9073181898906
+18_Plasma,HSPG,IgA,Lupus,Plasma,15.5464505410677
+18_Plasma,IA-2,IgA,Lupus,Plasma,18.7933406372436
+18_Plasma,IF,IgA,Lupus,Plasma,15.8937177294896
+18_Plasma,IFN-gamma,IgA,Lupus,Plasma,23.5667290659257
+18_Plasma,IL-6,IgA,Lupus,Plasma,16.0005545085779
+18_Plasma,IL-12/NKSF,IgA,Lupus,Plasma,21.2576010692352
+18_Plasma,IL-17A,IgA,Lupus,Plasma,17.6277801986928
+18_Plasma,Jo-1,IgA,Lupus,Plasma,16.3011018149176
+18_Plasma,KS,IgA,Lupus,Plasma,17.799458810347
+18_Plasma,KU (P70/P80),IgA,Lupus,Plasma,17.7840651422722
+18_Plasma,La/SS-B,IgA,Lupus,Plasma,19.5488299055812
+18_Plasma,Laminin,IgA,Lupus,Plasma,13.7954625777149
+18_Plasma,LC1,IgA,Lupus,Plasma,16.4277070889276
+18_Plasma,LKM 1,IgA,Lupus,Plasma,15.3873786303281
+18_Plasma,LPS,IgA,Lupus,Plasma,14.3870715526109
+18_Plasma,Lysozyme C,IgA,Lupus,Plasma,12.2447491366681
+18_Plasma,M2,IgA,Lupus,Plasma,13.3616594684762
+18_Plasma,MBP,IgA,Lupus,Plasma,16.2367157612859
+18_Plasma,MDA5,IgA,Lupus,Plasma,16.2283939909933
+18_Plasma,Mi-2,IgA,Lupus,Plasma,15.9139400846019
+18_Plasma,Mitochondrion,IgA,Lupus,Plasma,17.2088685801863
+18_Plasma,MPO,IgA,Lupus,Plasma,15.8130603524307
+18_Plasma,Myosin,IgA,Lupus,Plasma,11.9528977368996
+18_Plasma,Nrp1,IgA,Lupus,Plasma,18.5594528264431
+18_Plasma,Nucleolin,IgA,Lupus,Plasma,17.0587659559294
+18_Plasma,Nucleosome,IgA,Lupus,Plasma,16.5366259227613
+18_Plasma,Nup 62,IgA,Lupus,Plasma,16.9555377260908
+18_Plasma,NXP2,IgA,Lupus,Plasma,17.2703266478007
+18_Plasma,OGDC-E2,IgA,Lupus,Plasma,15.0494313963131
+18_Plasma,Ovalbumin,IgA,Lupus,Plasma,16.8007070976636
+18_Plasma,P0,IgA,Lupus,Plasma,16.4328417836738
+18_Plasma,P1,IgA,Lupus,Plasma,15.7231259200114
+18_Plasma,P2,IgA,Lupus,Plasma,14.602414849967
+18_Plasma,PCNA,IgA,Lupus,Plasma,15.4166618480659
+18_Plasma,PDC-E2,IgA,Lupus,Plasma,15.0832173579974
+18_Plasma,PL-7,IgA,Lupus,Plasma,17.4861045351297
+18_Plasma,PL-12,IgA,Lupus,Plasma,18.092271867232
+18_Plasma,PM/Scl-75,IgA,Lupus,Plasma,17.182510723324
+18_Plasma,PM/Scl 100,IgA,Lupus,Plasma,16.1706298620906
+18_Plasma,PR3,IgA,Lupus,Plasma,11.5823487719489
+18_Plasma,Proteoglycan,IgA,Lupus,Plasma,12.9607083953724
+18_Plasma,Prothrombin,IgA,Lupus,Plasma,14.7673806893326
+18_Plasma,Ro/SS-A(52 kDa),IgA,Lupus,Plasma,8.58332445040393
+18_Plasma,Ro/SS-A(60 Kda),IgA,Lupus,Plasma,12.5777139988489
+18_Plasma,SAE1/SAE2,IgA,Lupus,Plasma,15.0576934001691
+18_Plasma,Scl-70,IgA,Lupus,Plasma,14.9531976470284
+18_Plasma,SLA/LP,IgA,Lupus,Plasma,11.4423056981901
+18_Plasma,Sm,IgA,Lupus,Plasma,16.9842905439022
+18_Plasma,Sm/RNP,IgA,Lupus,Plasma,15.7477974238316
+18_Plasma,SmD,IgA,Lupus,Plasma,17.7336745211572
+18_Plasma,SmD1,IgA,Lupus,Plasma,17.6459942208145
+18_Plasma,SmD2,IgA,Lupus,Plasma,15.9254902368931
+18_Plasma,SmD3,IgA,Lupus,Plasma,12.653685254924
+18_Plasma,SP100,IgA,Lupus,Plasma,15.9697410915789
+18_Plasma,SRP54,IgA,Lupus,Plasma,15.3583028463275
+18_Plasma,ssDNA,IgA,Lupus,Plasma,20.5561836085126
+18_Plasma,Tau,IgA,Lupus,Plasma,18.1936980687341
+18_Plasma,Thyroglobulin,IgA,Lupus,Plasma,13.6462491905182
+18_Plasma,TIF1 gamma,IgA,Lupus,Plasma,20.214062110977
+18_Plasma,TLR4,IgA,Lupus,Plasma,16.7108801375224
+18_Plasma,TNF-alpha,IgA,Lupus,Plasma,12.2841602065842
+18_Plasma,TPO,IgA,Lupus,Plasma,17.84017246901
+18_Plasma,tTG,IgA,Lupus,Plasma,19.291893171349
+18_Plasma,U1-snRNP 68/70kDa,IgA,Lupus,Plasma,13.9772566655799
+18_Plasma,U1-snRNP A,IgA,Lupus,Plasma,19.573451341469
+18_Plasma,U1-snRNP C,IgA,Lupus,Plasma,14.7362802040744
+18_Plasma,U-snRNP B/B,IgA,Lupus,Plasma,14.9415509436955
+18_Plasma,Vimentin,IgA,Lupus,Plasma,14.869311069278
+18_Plasma,Vitronectin,IgA,Lupus,Plasma,22.9630220550542
+18_Plasma,HIgControl 1,IgA,Lupus,Plasma,23.1783973297635
+18_Plasma,HIgControl 2,IgA,Lupus,Plasma,20.5499971984305
+18_Plasma,HIgControl 3,IgA,Lupus,Plasma,19.4671917187448
+18_Plasma,HIgControl 4,IgA,Lupus,Plasma,17.3913174956103
+18_Plasma,MIgControl 1,IgA,Lupus,Plasma,19.9641548946811
+18_Plasma,MIgControl 2,IgA,Lupus,Plasma,17.8203371100884
+18_Plasma,MIgControl 3,IgA,Lupus,Plasma,17.4924331650827
+18_Plasma,MIgControl 4,IgA,Lupus,Plasma,14.1650234026328
+20_Plasma,ACE2,IgA,Lupus,Plasma,15.6942606821508
+20_Plasma,Aggrecan,IgA,Lupus,Plasma,9.2629205167203
+20_Plasma,Alpha Fodrin,IgA,Lupus,Plasma,20.6115786063298
+20_Plasma,Amyloid Beta(1-40),IgA,Lupus,Plasma,14.053987420391
+20_Plasma,Amyloid Beta(1-42),IgA,Lupus,Plasma,14.5191277526669
+20_Plasma,AQP4,IgA,Lupus,Plasma,14.3529859885739
+20_Plasma,BAFF,IgA,Lupus,Plasma,15.5880794962654
+20_Plasma,BCOADC-E2,IgA,Lupus,Plasma,13.7037254689707
+20_Plasma,Beta2-Glycoprotein 1,IgA,Lupus,Plasma,11.2324799889187
+20_Plasma,BPI,IgA,Lupus,Plasma,12.1702699797105
+20_Plasma,Calprotectin/S100,IgA,Lupus,Plasma,12.5110508985466
+20_Plasma,CD4,IgA,Lupus,Plasma,13.6913302333929
+20_Plasma,CD40,IgA,Lupus,Plasma,13.2245498182936
+20_Plasma,CENP-A,IgA,Lupus,Plasma,16.4920226844312
+20_Plasma,CENP-B,IgA,Lupus,Plasma,13.9677033250318
+20_Plasma,Collagen I,IgA,Lupus,Plasma,1.44269431942324e-06
+20_Plasma,Collagen II,IgA,Lupus,Plasma,14.0157080918337
+20_Plasma,Collagen III,IgA,Lupus,Plasma,14.3911482480904
+20_Plasma,Collagen IV,IgA,Lupus,Plasma,13.2903313057948
+20_Plasma,Collagen V,IgA,Lupus,Plasma,17.2453747351616
+20_Plasma,Complement C1q,IgA,Lupus,Plasma,18.9778022243131
+20_Plasma,Complement C3,IgA,Lupus,Plasma,13.6730749388747
+20_Plasma,Complement C4,IgA,Lupus,Plasma,14.0721470318831
+20_Plasma,Complement C5,IgA,Lupus,Plasma,15.0276623959828
+20_Plasma,Complement C6,IgA,Lupus,Plasma,14.8576165831054
+20_Plasma,Complement C7,IgA,Lupus,Plasma,13.3686112222456
+20_Plasma,Complement C8,IgA,Lupus,Plasma,14.2077803196742
+20_Plasma,Complement C9,IgA,Lupus,Plasma,15.7096364327709
+20_Plasma,CRP,IgA,Lupus,Plasma,16.9262437971525
+20_Plasma,Cytochrome C,IgA,Lupus,Plasma,13.2627492625252
+20_Plasma,DFS70,IgA,Lupus,Plasma,14.0271543971567
+20_Plasma,dsDNA,IgA,Lupus,Plasma,17.068418104982
+20_Plasma,EJ,IgA,Lupus,Plasma,14.3691394455799
+20_Plasma,FACTOR B,IgA,Lupus,Plasma,13.5982344544163
+20_Plasma,FACTOR H,IgA,Lupus,Plasma,13.1345371814277
+20_Plasma,FACTOR I,IgA,Lupus,Plasma,9.79063521509953
+20_Plasma,FACTOR P,IgA,Lupus,Plasma,5.75098159965399
+20_Plasma,Fibrinogen Type I-S,IgA,Lupus,Plasma,15.2498712020317
+20_Plasma,Fibronectin,IgA,Lupus,Plasma,12.0985873018122
+20_Plasma,GAD65,IgA,Lupus,Plasma,16.4707190248147
+20_Plasma,GBM,IgA,Lupus,Plasma,13.5510905867333
+20_Plasma,Genomic DNA,IgA,Lupus,Plasma,17.1304511309295
+20_Plasma,Gliadin,IgA,Lupus,Plasma,13.3177559690899
+20_Plasma,gp210,IgA,Lupus,Plasma,14.9525001106216
+20_Plasma,GP2,IgA,Lupus,Plasma,12.9829789623435
+20_Plasma,H/K-ATPase,IgA,Lupus,Plasma,15.0672679639184
+20_Plasma,Histone,IgA,Lupus,Plasma,21.7263651554431
+20_Plasma,Histone H1,IgA,Lupus,Plasma,21.9069587917677
+20_Plasma,Histone H2A,IgA,Lupus,Plasma,20.8074822783357
+20_Plasma,Histone H2B,IgA,Lupus,Plasma,20.4595047615674
+20_Plasma,Histone H3,IgA,Lupus,Plasma,19.9406234031741
+20_Plasma,HSPG,IgA,Lupus,Plasma,13.8984721984436
+20_Plasma,IA-2,IgA,Lupus,Plasma,13.5556093305145
+20_Plasma,IF,IgA,Lupus,Plasma,14.7546864615852
+20_Plasma,IFN-gamma,IgA,Lupus,Plasma,14.8605017832424
+20_Plasma,IL-6,IgA,Lupus,Plasma,12.2950342727288
+20_Plasma,IL-12/NKSF,IgA,Lupus,Plasma,13.5785134510513
+20_Plasma,IL-17A,IgA,Lupus,Plasma,12.9281796833851
+20_Plasma,Jo-1,IgA,Lupus,Plasma,13.4806939719446
+20_Plasma,KS,IgA,Lupus,Plasma,14.2836049560752
+20_Plasma,KU (P70/P80),IgA,Lupus,Plasma,15.1844017453094
+20_Plasma,La/SS-B,IgA,Lupus,Plasma,17.0003199788228
+20_Plasma,Laminin,IgA,Lupus,Plasma,16.1216654251473
+20_Plasma,LC1,IgA,Lupus,Plasma,14.7464310520124
+20_Plasma,LKM 1,IgA,Lupus,Plasma,13.0879177554909
+20_Plasma,LPS,IgA,Lupus,Plasma,13.0052954143888
+20_Plasma,Lysozyme C,IgA,Lupus,Plasma,8.65603687452618
+20_Plasma,M2,IgA,Lupus,Plasma,14.0814209804295
+20_Plasma,MBP,IgA,Lupus,Plasma,13.6374175676874
+20_Plasma,MDA5,IgA,Lupus,Plasma,14.9925378760859
+20_Plasma,Mi-2,IgA,Lupus,Plasma,11.8127105948845
+20_Plasma,Mitochondrion,IgA,Lupus,Plasma,16.0526287561509
+20_Plasma,MPO,IgA,Lupus,Plasma,16.5655857524424
+20_Plasma,Myosin,IgA,Lupus,Plasma,9.12740629325694
+20_Plasma,Nrp1,IgA,Lupus,Plasma,15.4956720870028
+20_Plasma,Nucleolin,IgA,Lupus,Plasma,16.3669242916728
+20_Plasma,Nucleosome,IgA,Lupus,Plasma,14.9908113511088
+20_Plasma,Nup 62,IgA,Lupus,Plasma,13.3305536734064
+20_Plasma,NXP2,IgA,Lupus,Plasma,13.3621334507236
+20_Plasma,OGDC-E2,IgA,Lupus,Plasma,13.7077415422657
+20_Plasma,Ovalbumin,IgA,Lupus,Plasma,15.0898212661746
+20_Plasma,P0,IgA,Lupus,Plasma,14.735385447399
+20_Plasma,P1,IgA,Lupus,Plasma,16.9283774801905
+20_Plasma,P2,IgA,Lupus,Plasma,10.1325591712954
+20_Plasma,PCNA,IgA,Lupus,Plasma,11.4416079704006
+20_Plasma,PDC-E2,IgA,Lupus,Plasma,14.4116475913655
+20_Plasma,PL-7,IgA,Lupus,Plasma,15.5520131636248
+20_Plasma,PL-12,IgA,Lupus,Plasma,14.2890282385049
+20_Plasma,PM/Scl-75,IgA,Lupus,Plasma,12.738183692167
+20_Plasma,PM/Scl 100,IgA,Lupus,Plasma,15.1824719489426
+20_Plasma,PR3,IgA,Lupus,Plasma,11.104131538244
+20_Plasma,Proteoglycan,IgA,Lupus,Plasma,9.15447004852887
+20_Plasma,Prothrombin,IgA,Lupus,Plasma,14.4627068624862
+20_Plasma,Ro/SS-A(52 kDa),IgA,Lupus,Plasma,5.10169209246305
+20_Plasma,Ro/SS-A(60 Kda),IgA,Lupus,Plasma,13.405316635949
+20_Plasma,SAE1/SAE2,IgA,Lupus,Plasma,12.6171758663328
+20_Plasma,Scl-70,IgA,Lupus,Plasma,13.9924178491614
+20_Plasma,SLA/LP,IgA,Lupus,Plasma,14.2662840861857
+20_Plasma,Sm,IgA,Lupus,Plasma,16.2923305849041
+20_Plasma,Sm/RNP,IgA,Lupus,Plasma,16.3397913156731
+20_Plasma,SmD,IgA,Lupus,Plasma,17.5460694762831
+20_Plasma,SmD1,IgA,Lupus,Plasma,15.6283890555953
+20_Plasma,SmD2,IgA,Lupus,Plasma,16.7632200678168
+20_Plasma,SmD3,IgA,Lupus,Plasma,9.09959108850709
+20_Plasma,SP100,IgA,Lupus,Plasma,10.3543447134945
+20_Plasma,SRP54,IgA,Lupus,Plasma,13.783329521981
+20_Plasma,ssDNA,IgA,Lupus,Plasma,19.0884694261799
+20_Plasma,Tau,IgA,Lupus,Plasma,18.2453440048851
+20_Plasma,Thyroglobulin,IgA,Lupus,Plasma,11.9038496558087
+20_Plasma,TIF1 gamma,IgA,Lupus,Plasma,18.3649424460902
+20_Plasma,TLR4,IgA,Lupus,Plasma,16.1942327080552
+20_Plasma,TNF-alpha,IgA,Lupus,Plasma,11.257502464032
+20_Plasma,TPO,IgA,Lupus,Plasma,16.2121629409715
+20_Plasma,tTG,IgA,Lupus,Plasma,16.2512461290632
+20_Plasma,U1-snRNP 68/70kDa,IgA,Lupus,Plasma,12.421124657682
+20_Plasma,U1-snRNP A,IgA,Lupus,Plasma,17.0011141823329
+20_Plasma,U1-snRNP C,IgA,Lupus,Plasma,13.816249893454
+20_Plasma,U-snRNP B/B,IgA,Lupus,Plasma,14.867849685461
+20_Plasma,Vimentin,IgA,Lupus,Plasma,13.6173523538869
+20_Plasma,Vitronectin,IgA,Lupus,Plasma,16.1222693882107
+20_Plasma,HIgControl 1,IgA,Lupus,Plasma,22.5102972910216
+20_Plasma,HIgControl 2,IgA,Lupus,Plasma,21.6177786200912
+20_Plasma,HIgControl 3,IgA,Lupus,Plasma,19.3371208317268
+20_Plasma,HIgControl 4,IgA,Lupus,Plasma,17.4807375913634
+20_Plasma,MIgControl 1,IgA,Lupus,Plasma,18.7545326094392
+20_Plasma,MIgControl 2,IgA,Lupus,Plasma,17.2299257688763
+20_Plasma,MIgControl 3,IgA,Lupus,Plasma,16.6028069471251
+20_Plasma,MIgControl 4,IgA,Lupus,Plasma,13.9293508861243
+22_Plasma,ACE2,IgA,Lupus,Plasma,15.9817820960084
+22_Plasma,Aggrecan,IgA,Lupus,Plasma,11.9830735836014
+22_Plasma,Alpha Fodrin,IgA,Lupus,Plasma,22.3844431054424
+22_Plasma,Amyloid Beta(1-40),IgA,Lupus,Plasma,16.3385248803025
+22_Plasma,Amyloid Beta(1-42),IgA,Lupus,Plasma,15.8309497053917
+22_Plasma,AQP4,IgA,Lupus,Plasma,14.4052622645045
+22_Plasma,BAFF,IgA,Lupus,Plasma,14.543831631896
+22_Plasma,BCOADC-E2,IgA,Lupus,Plasma,14.6813916954739
+22_Plasma,Beta2-Glycoprotein 1,IgA,Lupus,Plasma,12.3355408136875
+22_Plasma,BPI,IgA,Lupus,Plasma,13.7884249623484
+22_Plasma,Calprotectin/S100,IgA,Lupus,Plasma,13.7837521107315
+22_Plasma,CD4,IgA,Lupus,Plasma,13.3194273824787
+22_Plasma,CD40,IgA,Lupus,Plasma,14.913986455483
+22_Plasma,CENP-A,IgA,Lupus,Plasma,18.3953527265935
+22_Plasma,CENP-B,IgA,Lupus,Plasma,14.7489709191929
+22_Plasma,Collagen I,IgA,Lupus,Plasma,1.44269431942324e-06
+22_Plasma,Collagen II,IgA,Lupus,Plasma,17.1971213444184
+22_Plasma,Collagen III,IgA,Lupus,Plasma,13.633230819605
+22_Plasma,Collagen IV,IgA,Lupus,Plasma,12.6941123382625
+22_Plasma,Collagen V,IgA,Lupus,Plasma,16.6355431285378
+22_Plasma,Complement C1q,IgA,Lupus,Plasma,18.2482226150477
+22_Plasma,Complement C3,IgA,Lupus,Plasma,13.9837704891167
+22_Plasma,Complement C4,IgA,Lupus,Plasma,14.5478078795363
+22_Plasma,Complement C5,IgA,Lupus,Plasma,15.9465700335233
+22_Plasma,Complement C6,IgA,Lupus,Plasma,15.0626537821358
+22_Plasma,Complement C7,IgA,Lupus,Plasma,13.4346230155788
+22_Plasma,Complement C8,IgA,Lupus,Plasma,14.4428552032161
+22_Plasma,Complement C9,IgA,Lupus,Plasma,15.6549135900115
+22_Plasma,CRP,IgA,Lupus,Plasma,16.5612129470626
+22_Plasma,Cytochrome C,IgA,Lupus,Plasma,8.87862572980536
+22_Plasma,DFS70,IgA,Lupus,Plasma,15.2768616347403
+22_Plasma,dsDNA,IgA,Lupus,Plasma,16.2530489299338
+22_Plasma,EJ,IgA,Lupus,Plasma,14.6723040625321
+22_Plasma,FACTOR B,IgA,Lupus,Plasma,13.6130811490083
+22_Plasma,FACTOR H,IgA,Lupus,Plasma,12.4798837519652
+22_Plasma,FACTOR I,IgA,Lupus,Plasma,9.89900564812273
+22_Plasma,FACTOR P,IgA,Lupus,Plasma,2.6575256825293
+22_Plasma,Fibrinogen Type I-S,IgA,Lupus,Plasma,17.3403624274405
+22_Plasma,Fibronectin,IgA,Lupus,Plasma,13.00472960427
+22_Plasma,GAD65,IgA,Lupus,Plasma,16.9448681432736
+22_Plasma,GBM,IgA,Lupus,Plasma,14.0116327816586
+22_Plasma,Genomic DNA,IgA,Lupus,Plasma,17.7289941944103
+22_Plasma,Gliadin,IgA,Lupus,Plasma,13.9769653731054
+22_Plasma,gp210,IgA,Lupus,Plasma,14.6941772805578
+22_Plasma,GP2,IgA,Lupus,Plasma,12.770241427797
+22_Plasma,H/K-ATPase,IgA,Lupus,Plasma,12.9326692603577
+22_Plasma,Histone,IgA,Lupus,Plasma,21.5517539432587
+22_Plasma,Histone H1,IgA,Lupus,Plasma,21.7074898203893
+22_Plasma,Histone H2A,IgA,Lupus,Plasma,19.6000848117514
+22_Plasma,Histone H2B,IgA,Lupus,Plasma,19.5883976608924
+22_Plasma,Histone H3,IgA,Lupus,Plasma,18.8662685451425
+22_Plasma,HSPG,IgA,Lupus,Plasma,14.6860707405211
+22_Plasma,IA-2,IgA,Lupus,Plasma,15.4028076733666
+22_Plasma,IF,IgA,Lupus,Plasma,14.0168915126709
+22_Plasma,IFN-gamma,IgA,Lupus,Plasma,17.2872537257442
+22_Plasma,IL-6,IgA,Lupus,Plasma,13.2127207059204
+22_Plasma,IL-12/NKSF,IgA,Lupus,Plasma,14.0664065955512
+22_Plasma,IL-17A,IgA,Lupus,Plasma,13.5056536574882
+22_Plasma,Jo-1,IgA,Lupus,Plasma,13.5969126408545
+22_Plasma,KS,IgA,Lupus,Plasma,16.5394084002101
+22_Plasma,KU (P70/P80),IgA,Lupus,Plasma,15.3143184851586
+22_Plasma,La/SS-B,IgA,Lupus,Plasma,15.0973562990064
+22_Plasma,Laminin,IgA,Lupus,Plasma,13.7903063394627
+22_Plasma,LC1,IgA,Lupus,Plasma,15.6378624328295
+22_Plasma,LKM 1,IgA,Lupus,Plasma,15.3102552141625
+22_Plasma,LPS,IgA,Lupus,Plasma,14.9340377801218
+22_Plasma,Lysozyme C,IgA,Lupus,Plasma,8.62470225785687
+22_Plasma,M2,IgA,Lupus,Plasma,13.9172207340225
+22_Plasma,MBP,IgA,Lupus,Plasma,13.0728186927721
+22_Plasma,MDA5,IgA,Lupus,Plasma,16.3630232113939
+22_Plasma,Mi-2,IgA,Lupus,Plasma,16.2022393188173
+22_Plasma,Mitochondrion,IgA,Lupus,Plasma,14.6499859025284
+22_Plasma,MPO,IgA,Lupus,Plasma,16.5834017457096
+22_Plasma,Myosin,IgA,Lupus,Plasma,11.551847982897
+22_Plasma,Nrp1,IgA,Lupus,Plasma,14.8303047490843
+22_Plasma,Nucleolin,IgA,Lupus,Plasma,16.9896211948971
+22_Plasma,Nucleosome,IgA,Lupus,Plasma,14.8412708282008
+22_Plasma,Nup 62,IgA,Lupus,Plasma,14.1533240197424
+22_Plasma,NXP2,IgA,Lupus,Plasma,14.6320473506791
+22_Plasma,OGDC-E2,IgA,Lupus,Plasma,15.3682749600191
+22_Plasma,Ovalbumin,IgA,Lupus,Plasma,15.1592307148957
+22_Plasma,P0,IgA,Lupus,Plasma,13.956238765226
+22_Plasma,P1,IgA,Lupus,Plasma,16.7361160238453
+22_Plasma,P2,IgA,Lupus,Plasma,11.8163177026166
+22_Plasma,PCNA,IgA,Lupus,Plasma,13.7517646515508
+22_Plasma,PDC-E2,IgA,Lupus,Plasma,13.8264000194999
+22_Plasma,PL-7,IgA,Lupus,Plasma,17.2940452920983
+22_Plasma,PL-12,IgA,Lupus,Plasma,16.6574913260405
+22_Plasma,PM/Scl-75,IgA,Lupus,Plasma,17.2186550476707
+22_Plasma,PM/Scl 100,IgA,Lupus,Plasma,17.3442216600979
+22_Plasma,PR3,IgA,Lupus,Plasma,12.0975423259759
+22_Plasma,Proteoglycan,IgA,Lupus,Plasma,9.54078432037632
+22_Plasma,Prothrombin,IgA,Lupus,Plasma,14.093692170274
+22_Plasma,Ro/SS-A(52 kDa),IgA,Lupus,Plasma,6.22279007375529
+22_Plasma,Ro/SS-A(60 Kda),IgA,Lupus,Plasma,13.5417680626646
+22_Plasma,SAE1/SAE2,IgA,Lupus,Plasma,13.6440919609791
+22_Plasma,Scl-70,IgA,Lupus,Plasma,13.6670311313237
+22_Plasma,SLA/LP,IgA,Lupus,Plasma,11.1898399985988
+22_Plasma,Sm,IgA,Lupus,Plasma,17.0950969383808
+22_Plasma,Sm/RNP,IgA,Lupus,Plasma,15.5781794856123
+22_Plasma,SmD,IgA,Lupus,Plasma,18.0728453236275
+22_Plasma,SmD1,IgA,Lupus,Plasma,16.7374234037272
+22_Plasma,SmD2,IgA,Lupus,Plasma,18.105226925638
+22_Plasma,SmD3,IgA,Lupus,Plasma,12.2172652561371
+22_Plasma,SP100,IgA,Lupus,Plasma,12.9358667927811
+22_Plasma,SRP54,IgA,Lupus,Plasma,14.757269545344
+22_Plasma,ssDNA,IgA,Lupus,Plasma,20.3275307459436
+22_Plasma,Tau,IgA,Lupus,Plasma,18.4560878320346
+22_Plasma,Thyroglobulin,IgA,Lupus,Plasma,11.8441141303053
+22_Plasma,TIF1 gamma,IgA,Lupus,Plasma,21.2160302386845
+22_Plasma,TLR4,IgA,Lupus,Plasma,17.1331208845565
+22_Plasma,TNF-alpha,IgA,Lupus,Plasma,12.0406630197331
+22_Plasma,TPO,IgA,Lupus,Plasma,16.8541307683072
+22_Plasma,tTG,IgA,Lupus,Plasma,16.409809744212
+22_Plasma,U1-snRNP 68/70kDa,IgA,Lupus,Plasma,11.5139567610086
+22_Plasma,U1-snRNP A,IgA,Lupus,Plasma,17.9221633824799
+22_Plasma,U1-snRNP C,IgA,Lupus,Plasma,13.1027360359997
+22_Plasma,U-snRNP B/B,IgA,Lupus,Plasma,14.5612497528647
+22_Plasma,Vimentin,IgA,Lupus,Plasma,13.3010183731741
+22_Plasma,Vitronectin,IgA,Lupus,Plasma,17.3638583038341
+22_Plasma,HIgControl 1,IgA,Lupus,Plasma,21.9377333786512
+22_Plasma,HIgControl 2,IgA,Lupus,Plasma,20.987507658312
+22_Plasma,HIgControl 3,IgA,Lupus,Plasma,19.9913568839799
+22_Plasma,HIgControl 4,IgA,Lupus,Plasma,17.072067839954
+22_Plasma,MIgControl 1,IgA,Lupus,Plasma,19.2788770438149
+22_Plasma,MIgControl 2,IgA,Lupus,Plasma,17.4582569956413
+22_Plasma,MIgControl 3,IgA,Lupus,Plasma,15.9081691234238
+22_Plasma,MIgControl 4,IgA,Lupus,Plasma,13.1823620724315
+25_Plasma,ACE2,IgA,Lupus,Plasma,16.2339668237384
+25_Plasma,Aggrecan,IgA,Lupus,Plasma,10.536925657142
+25_Plasma,Alpha Fodrin,IgA,Lupus,Plasma,21.9311825025234
+25_Plasma,Amyloid Beta(1-40),IgA,Lupus,Plasma,15.9565827141834
+25_Plasma,Amyloid Beta(1-42),IgA,Lupus,Plasma,15.6720376885344
+25_Plasma,AQP4,IgA,Lupus,Plasma,12.6339590187684
+25_Plasma,BAFF,IgA,Lupus,Plasma,14.5968064742966
+25_Plasma,BCOADC-E2,IgA,Lupus,Plasma,14.5765085863736
+25_Plasma,Beta2-Glycoprotein 1,IgA,Lupus,Plasma,12.5714159832822
+25_Plasma,BPI,IgA,Lupus,Plasma,13.913274511696
+25_Plasma,Calprotectin/S100,IgA,Lupus,Plasma,12.8290541446963
+25_Plasma,CD4,IgA,Lupus,Plasma,13.2783418256127
+25_Plasma,CD40,IgA,Lupus,Plasma,13.6874712347601
+25_Plasma,CENP-A,IgA,Lupus,Plasma,16.2480982283117
+25_Plasma,CENP-B,IgA,Lupus,Plasma,14.3578382026087
+25_Plasma,Collagen I,IgA,Lupus,Plasma,1.44269431942324e-06
+25_Plasma,Collagen II,IgA,Lupus,Plasma,6.56411310359264e-05
+25_Plasma,Collagen III,IgA,Lupus,Plasma,13.868295913549
+25_Plasma,Collagen IV,IgA,Lupus,Plasma,10.7749568874203
+25_Plasma,Collagen V,IgA,Lupus,Plasma,17.5168697923868
+25_Plasma,Complement C1q,IgA,Lupus,Plasma,18.5158408437239
+25_Plasma,Complement C3,IgA,Lupus,Plasma,11.4299370620054
+25_Plasma,Complement C4,IgA,Lupus,Plasma,14.5831558144339
+25_Plasma,Complement C5,IgA,Lupus,Plasma,16.8246800718872
+25_Plasma,Complement C6,IgA,Lupus,Plasma,14.3118668557393
+25_Plasma,Complement C7,IgA,Lupus,Plasma,12.8919962952443
+25_Plasma,Complement C8,IgA,Lupus,Plasma,14.6760129186553
+25_Plasma,Complement C9,IgA,Lupus,Plasma,14.2143542617766
+25_Plasma,CRP,IgA,Lupus,Plasma,15.9900478845588
+25_Plasma,Cytochrome C,IgA,Lupus,Plasma,11.832825747946
+25_Plasma,DFS70,IgA,Lupus,Plasma,13.3429462181887
+25_Plasma,dsDNA,IgA,Lupus,Plasma,14.6225612441264
+25_Plasma,EJ,IgA,Lupus,Plasma,13.9184441912535
+25_Plasma,FACTOR B,IgA,Lupus,Plasma,12.3806555263001
+25_Plasma,FACTOR H,IgA,Lupus,Plasma,14.0505053110499
+25_Plasma,FACTOR I,IgA,Lupus,Plasma,7.90887293874095
+25_Plasma,FACTOR P,IgA,Lupus,Plasma,3.28643762827627
+25_Plasma,Fibrinogen Type I-S,IgA,Lupus,Plasma,13.4535813665238
+25_Plasma,Fibronectin,IgA,Lupus,Plasma,12.815908548938
+25_Plasma,GAD65,IgA,Lupus,Plasma,16.5604168496437
+25_Plasma,GBM,IgA,Lupus,Plasma,14.0121353816309
+25_Plasma,Genomic DNA,IgA,Lupus,Plasma,15.3340197210361
+25_Plasma,Gliadin,IgA,Lupus,Plasma,9.94592075407571
+25_Plasma,gp210,IgA,Lupus,Plasma,15.1659137834317
+25_Plasma,GP2,IgA,Lupus,Plasma,12.0078073766008
+25_Plasma,H/K-ATPase,IgA,Lupus,Plasma,11.3417743994673
+25_Plasma,Histone,IgA,Lupus,Plasma,21.4935040378278
+25_Plasma,Histone H1,IgA,Lupus,Plasma,21.4194780600641
+25_Plasma,Histone H2A,IgA,Lupus,Plasma,20.0600698549048
+25_Plasma,Histone H2B,IgA,Lupus,Plasma,19.9787841170333
+25_Plasma,Histone H3,IgA,Lupus,Plasma,20.1882452525114
+25_Plasma,HSPG,IgA,Lupus,Plasma,13.7177510885271
+25_Plasma,IA-2,IgA,Lupus,Plasma,14.9479142648512
+25_Plasma,IF,IgA,Lupus,Plasma,14.9077532543116
+25_Plasma,IFN-gamma,IgA,Lupus,Plasma,16.0327379717689
+25_Plasma,IL-6,IgA,Lupus,Plasma,13.2481148825653
+25_Plasma,IL-12/NKSF,IgA,Lupus,Plasma,14.826478960088
+25_Plasma,IL-17A,IgA,Lupus,Plasma,12.8918807971238
+25_Plasma,Jo-1,IgA,Lupus,Plasma,13.7350114730062
+25_Plasma,KS,IgA,Lupus,Plasma,16.8337394989907
+25_Plasma,KU (P70/P80),IgA,Lupus,Plasma,17.0102103260275
+25_Plasma,La/SS-B,IgA,Lupus,Plasma,15.1380134528622
+25_Plasma,Laminin,IgA,Lupus,Plasma,13.9270370760973
+25_Plasma,LC1,IgA,Lupus,Plasma,14.284909025915
+25_Plasma,LKM 1,IgA,Lupus,Plasma,14.7608584026467
+25_Plasma,LPS,IgA,Lupus,Plasma,13.502501417909
+25_Plasma,Lysozyme C,IgA,Lupus,Plasma,8.67112880923204
+25_Plasma,M2,IgA,Lupus,Plasma,14.136822176502
+25_Plasma,MBP,IgA,Lupus,Plasma,12.669254417099
+25_Plasma,MDA5,IgA,Lupus,Plasma,15.5114796368078
+25_Plasma,Mi-2,IgA,Lupus,Plasma,13.5023451479875
+25_Plasma,Mitochondrion,IgA,Lupus,Plasma,15.1015149301893
+25_Plasma,MPO,IgA,Lupus,Plasma,15.8559863891566
+25_Plasma,Myosin,IgA,Lupus,Plasma,11.1050376539518
+25_Plasma,Nrp1,IgA,Lupus,Plasma,12.9697975948814
+25_Plasma,Nucleolin,IgA,Lupus,Plasma,16.9211456998886
+25_Plasma,Nucleosome,IgA,Lupus,Plasma,14.3359132299031
+25_Plasma,Nup 62,IgA,Lupus,Plasma,16.1388277450896
+25_Plasma,NXP2,IgA,Lupus,Plasma,15.0666790864403
+25_Plasma,OGDC-E2,IgA,Lupus,Plasma,16.2941890459754
+25_Plasma,Ovalbumin,IgA,Lupus,Plasma,13.6858026472832
+25_Plasma,P0,IgA,Lupus,Plasma,14.334904675424
+25_Plasma,P1,IgA,Lupus,Plasma,16.4081527685443
+25_Plasma,P2,IgA,Lupus,Plasma,10.1945857396583
+25_Plasma,PCNA,IgA,Lupus,Plasma,13.4246461557907
+25_Plasma,PDC-E2,IgA,Lupus,Plasma,14.2063251527633
+25_Plasma,PL-7,IgA,Lupus,Plasma,16.3355124816996
+25_Plasma,PL-12,IgA,Lupus,Plasma,15.3895225314584
+25_Plasma,PM/Scl-75,IgA,Lupus,Plasma,14.4920299158232
+25_Plasma,PM/Scl 100,IgA,Lupus,Plasma,16.4880009277951
+25_Plasma,PR3,IgA,Lupus,Plasma,11.7415554667365
+25_Plasma,Proteoglycan,IgA,Lupus,Plasma,8.38364597877144
+25_Plasma,Prothrombin,IgA,Lupus,Plasma,13.3648997892087
+25_Plasma,Ro/SS-A(52 kDa),IgA,Lupus,Plasma,6.79997770370144
+25_Plasma,Ro/SS-A(60 Kda),IgA,Lupus,Plasma,11.4057153415885
+25_Plasma,SAE1/SAE2,IgA,Lupus,Plasma,13.3541577295997
+25_Plasma,Scl-70,IgA,Lupus,Plasma,13.0130804590062
+25_Plasma,SLA/LP,IgA,Lupus,Plasma,10.6469467816219
+25_Plasma,Sm,IgA,Lupus,Plasma,16.0482931616814
+25_Plasma,Sm/RNP,IgA,Lupus,Plasma,15.5251355230858
+25_Plasma,SmD,IgA,Lupus,Plasma,18.0990894263283
+25_Plasma,SmD1,IgA,Lupus,Plasma,16.2191428956045
+25_Plasma,SmD2,IgA,Lupus,Plasma,15.4022405741882
+25_Plasma,SmD3,IgA,Lupus,Plasma,9.0008169201555
+25_Plasma,SP100,IgA,Lupus,Plasma,13.0009193546537
+25_Plasma,SRP54,IgA,Lupus,Plasma,14.5396619214418
+25_Plasma,ssDNA,IgA,Lupus,Plasma,18.6283712270469
+25_Plasma,Tau,IgA,Lupus,Plasma,17.8702452396467
+25_Plasma,Thyroglobulin,IgA,Lupus,Plasma,11.0545032511574
+25_Plasma,TIF1 gamma,IgA,Lupus,Plasma,18.3506481846514
+25_Plasma,TLR4,IgA,Lupus,Plasma,15.1080770980579
+25_Plasma,TNF-alpha,IgA,Lupus,Plasma,10.2414398030143
+25_Plasma,TPO,IgA,Lupus,Plasma,16.1528719269756
+25_Plasma,tTG,IgA,Lupus,Plasma,16.4805305845973
+25_Plasma,U1-snRNP 68/70kDa,IgA,Lupus,Plasma,9.52195616249939
+25_Plasma,U1-snRNP A,IgA,Lupus,Plasma,19.501551099106
+25_Plasma,U1-snRNP C,IgA,Lupus,Plasma,12.9421869661236
+25_Plasma,U-snRNP B/B,IgA,Lupus,Plasma,13.2706546777839
+25_Plasma,Vimentin,IgA,Lupus,Plasma,11.4730928291414
+25_Plasma,Vitronectin,IgA,Lupus,Plasma,17.5928527547011
+25_Plasma,HIgControl 1,IgA,Lupus,Plasma,23.1831508951523
+25_Plasma,HIgControl 2,IgA,Lupus,Plasma,21.4064869618864
+25_Plasma,HIgControl 3,IgA,Lupus,Plasma,20.2863916652908
+25_Plasma,HIgControl 4,IgA,Lupus,Plasma,17.9173805997632
+25_Plasma,MIgControl 1,IgA,Lupus,Plasma,18.8700971840853
+25_Plasma,MIgControl 2,IgA,Lupus,Plasma,16.2777659772921
+25_Plasma,MIgControl 3,IgA,Lupus,Plasma,14.9248125036058
+25_Plasma,MIgControl 4,IgA,Lupus,Plasma,12.9675453711764
+29_Plasma,ACE2,IgA,Lupus,Plasma,14.572613074844
+29_Plasma,Aggrecan,IgA,Lupus,Plasma,11.036552785418
+29_Plasma,Alpha Fodrin,IgA,Lupus,Plasma,19.1594065944621
+29_Plasma,Amyloid Beta(1-40),IgA,Lupus,Plasma,11.1485483973686
+29_Plasma,Amyloid Beta(1-42),IgA,Lupus,Plasma,14.4980862963748
+29_Plasma,AQP4,IgA,Lupus,Plasma,11.0399471601691
+29_Plasma,BAFF,IgA,Lupus,Plasma,14.5292689068755
+29_Plasma,BCOADC-E2,IgA,Lupus,Plasma,14.159516609623
+29_Plasma,Beta2-Glycoprotein 1,IgA,Lupus,Plasma,12.146309880642
+29_Plasma,BPI,IgA,Lupus,Plasma,14.1446161848546
+29_Plasma,Calprotectin/S100,IgA,Lupus,Plasma,10.2984618605293
+29_Plasma,CD4,IgA,Lupus,Plasma,13.7153041253088
+29_Plasma,CD40,IgA,Lupus,Plasma,12.1801486383437
+29_Plasma,CENP-A,IgA,Lupus,Plasma,14.509623478758
+29_Plasma,CENP-B,IgA,Lupus,Plasma,15.2629686748604
+29_Plasma,Collagen I,IgA,Lupus,Plasma,1.44269431942324e-06
+29_Plasma,Collagen II,IgA,Lupus,Plasma,16.4363819603141
+29_Plasma,Collagen III,IgA,Lupus,Plasma,14.3671136179809
+29_Plasma,Collagen IV,IgA,Lupus,Plasma,13.4819668325885
+29_Plasma,Collagen V,IgA,Lupus,Plasma,16.2327891897662
+29_Plasma,Complement C1q,IgA,Lupus,Plasma,17.2503898697176
+29_Plasma,Complement C3,IgA,Lupus,Plasma,13.1063897493951
+29_Plasma,Complement C4,IgA,Lupus,Plasma,15.6883167385189
+29_Plasma,Complement C5,IgA,Lupus,Plasma,15.4155495369644
+29_Plasma,Complement C6,IgA,Lupus,Plasma,14.4040368426967
+29_Plasma,Complement C7,IgA,Lupus,Plasma,13.3273807173563
+29_Plasma,Complement C8,IgA,Lupus,Plasma,15.3834947166191
+29_Plasma,Complement C9,IgA,Lupus,Plasma,14.1727140814278
+29_Plasma,CRP,IgA,Lupus,Plasma,16.4971889450878
+29_Plasma,Cytochrome C,IgA,Lupus,Plasma,8.10230119233868
+29_Plasma,DFS70,IgA,Lupus,Plasma,13.3107104726618
+29_Plasma,dsDNA,IgA,Lupus,Plasma,13.7567270591315
+29_Plasma,EJ,IgA,Lupus,Plasma,15.7653876997729
+29_Plasma,FACTOR B,IgA,Lupus,Plasma,12.9768936592561
+29_Plasma,FACTOR H,IgA,Lupus,Plasma,12.0399418498356
+29_Plasma,FACTOR I,IgA,Lupus,Plasma,8.52675450021798
+29_Plasma,FACTOR P,IgA,Lupus,Plasma,0.608809242675524
+29_Plasma,Fibrinogen Type I-S,IgA,Lupus,Plasma,16.0329113576435
+29_Plasma,Fibronectin,IgA,Lupus,Plasma,12.938609072454
+29_Plasma,GAD65,IgA,Lupus,Plasma,16.4991876567851
+29_Plasma,GBM,IgA,Lupus,Plasma,13.9020122280329
+29_Plasma,Genomic DNA,IgA,Lupus,Plasma,14.0468632693937
+29_Plasma,Gliadin,IgA,Lupus,Plasma,11.1234402016013
+29_Plasma,gp210,IgA,Lupus,Plasma,14.4095438331566
+29_Plasma,GP2,IgA,Lupus,Plasma,12.8180057032566
+29_Plasma,H/K-ATPase,IgA,Lupus,Plasma,12.6134729483121
+29_Plasma,Histone,IgA,Lupus,Plasma,19.9723188315851
+29_Plasma,Histone H1,IgA,Lupus,Plasma,19.4483259130468
+29_Plasma,Histone H2A,IgA,Lupus,Plasma,18.2850819076538
+29_Plasma,Histone H2B,IgA,Lupus,Plasma,18.4046353031543
+29_Plasma,Histone H3,IgA,Lupus,Plasma,18.6856302477012
+29_Plasma,HSPG,IgA,Lupus,Plasma,13.347400428593
+29_Plasma,IA-2,IgA,Lupus,Plasma,13.9570726503428
+29_Plasma,IF,IgA,Lupus,Plasma,14.8980333537584
+29_Plasma,IFN-gamma,IgA,Lupus,Plasma,14.956653964559
+29_Plasma,IL-6,IgA,Lupus,Plasma,12.5107184340569
+29_Plasma,IL-12/NKSF,IgA,Lupus,Plasma,13.8022336144228
+29_Plasma,IL-17A,IgA,Lupus,Plasma,12.8678666938185
+29_Plasma,Jo-1,IgA,Lupus,Plasma,14.9129476779595
+29_Plasma,KS,IgA,Lupus,Plasma,15.0174554666109
+29_Plasma,KU (P70/P80),IgA,Lupus,Plasma,15.7088550068034
+29_Plasma,La/SS-B,IgA,Lupus,Plasma,14.4991950081003
+29_Plasma,Laminin,IgA,Lupus,Plasma,13.0052874307089
+29_Plasma,LC1,IgA,Lupus,Plasma,14.1980963736012
+29_Plasma,LKM 1,IgA,Lupus,Plasma,13.8033316138655
+29_Plasma,LPS,IgA,Lupus,Plasma,12.2546964874283
+29_Plasma,Lysozyme C,IgA,Lupus,Plasma,7.83199437942351
+29_Plasma,M2,IgA,Lupus,Plasma,13.1345402295894
+29_Plasma,MBP,IgA,Lupus,Plasma,12.2977741287932
+29_Plasma,MDA5,IgA,Lupus,Plasma,15.5476288503872
+29_Plasma,Mi-2,IgA,Lupus,Plasma,12.6856617935318
+29_Plasma,Mitochondrion,IgA,Lupus,Plasma,14.6908315293761
+29_Plasma,MPO,IgA,Lupus,Plasma,16.2556684430422
+29_Plasma,Myosin,IgA,Lupus,Plasma,11.0433559549877
+29_Plasma,Nrp1,IgA,Lupus,Plasma,14.357084042496
+29_Plasma,Nucleolin,IgA,Lupus,Plasma,16.2055423153763
+29_Plasma,Nucleosome,IgA,Lupus,Plasma,16.3189678962088
+29_Plasma,Nup 62,IgA,Lupus,Plasma,14.0878122016519
+29_Plasma,NXP2,IgA,Lupus,Plasma,14.6932308585783
+29_Plasma,OGDC-E2,IgA,Lupus,Plasma,12.6883669222693
+29_Plasma,Ovalbumin,IgA,Lupus,Plasma,14.4855548787863
+29_Plasma,P0,IgA,Lupus,Plasma,13.9097234221555
+29_Plasma,P1,IgA,Lupus,Plasma,16.2505143840265
+29_Plasma,P2,IgA,Lupus,Plasma,10.9323978459638
+29_Plasma,PCNA,IgA,Lupus,Plasma,11.9505217246721
+29_Plasma,PDC-E2,IgA,Lupus,Plasma,14.2817410591906
+29_Plasma,PL-7,IgA,Lupus,Plasma,15.714206430728
+29_Plasma,PL-12,IgA,Lupus,Plasma,14.4811195874825
+29_Plasma,PM/Scl-75,IgA,Lupus,Plasma,14.0699227699923
+29_Plasma,PM/Scl 100,IgA,Lupus,Plasma,15.4329095411276
+29_Plasma,PR3,IgA,Lupus,Plasma,11.894269260662
+29_Plasma,Proteoglycan,IgA,Lupus,Plasma,9.89310733801739
+29_Plasma,Prothrombin,IgA,Lupus,Plasma,14.5961473507251
+29_Plasma,Ro/SS-A(52 kDa),IgA,Lupus,Plasma,5.39483993254747
+29_Plasma,Ro/SS-A(60 Kda),IgA,Lupus,Plasma,10.5090240236752
+29_Plasma,SAE1/SAE2,IgA,Lupus,Plasma,12.0770760601421
+29_Plasma,Scl-70,IgA,Lupus,Plasma,14.0674059359892
+29_Plasma,SLA/LP,IgA,Lupus,Plasma,12.1791846068231
+29_Plasma,Sm,IgA,Lupus,Plasma,14.289958385278
+29_Plasma,Sm/RNP,IgA,Lupus,Plasma,14.6021964291537
+29_Plasma,SmD,IgA,Lupus,Plasma,16.3781416935364
+29_Plasma,SmD1,IgA,Lupus,Plasma,14.8667320382402
+29_Plasma,SmD2,IgA,Lupus,Plasma,15.5412604977711
+29_Plasma,SmD3,IgA,Lupus,Plasma,8.7475258683668
+29_Plasma,SP100,IgA,Lupus,Plasma,11.0121146872258
+29_Plasma,SRP54,IgA,Lupus,Plasma,15.17553005884
+29_Plasma,ssDNA,IgA,Lupus,Plasma,16.8650098151382
+29_Plasma,Tau,IgA,Lupus,Plasma,17.8228518035611
+29_Plasma,Thyroglobulin,IgA,Lupus,Plasma,12.1518080910152
+29_Plasma,TIF1 gamma,IgA,Lupus,Plasma,16.7511150316331
+29_Plasma,TLR4,IgA,Lupus,Plasma,14.8462114141084
+29_Plasma,TNF-alpha,IgA,Lupus,Plasma,10.5946884979155
+29_Plasma,TPO,IgA,Lupus,Plasma,14.644778768709
+29_Plasma,tTG,IgA,Lupus,Plasma,16.0235512759557
+29_Plasma,U1-snRNP 68/70kDa,IgA,Lupus,Plasma,9.13992860363543
+29_Plasma,U1-snRNP A,IgA,Lupus,Plasma,18.1935947742368
+29_Plasma,U1-snRNP C,IgA,Lupus,Plasma,12.4215490971938
+29_Plasma,U-snRNP B/B,IgA,Lupus,Plasma,13.0465238007231
+29_Plasma,Vimentin,IgA,Lupus,Plasma,12.5466488264157
+29_Plasma,Vitronectin,IgA,Lupus,Plasma,16.4190504691556
+29_Plasma,HIgControl 1,IgA,Lupus,Plasma,19.9598464261304
+29_Plasma,HIgControl 2,IgA,Lupus,Plasma,19.4388573285731
+29_Plasma,HIgControl 3,IgA,Lupus,Plasma,19.0427479513981
+29_Plasma,HIgControl 4,IgA,Lupus,Plasma,17.3206344256453
+29_Plasma,MIgControl 1,IgA,Lupus,Plasma,17.7288047868414
+29_Plasma,MIgControl 2,IgA,Lupus,Plasma,15.9743156005537
+29_Plasma,MIgControl 3,IgA,Lupus,Plasma,15.4609071318966
+29_Plasma,MIgControl 4,IgA,Lupus,Plasma,14.4527928293821
+16_blisterfluid,ACE2,IgA,Healthy,Blister,10.7584418514201
+16_blisterfluid,Aggrecan,IgA,Healthy,Blister,2.95419631038688
+16_blisterfluid,Alpha Fodrin,IgA,Healthy,Blister,15.8310313796998
+16_blisterfluid,Amyloid Beta(1-40),IgA,Healthy,Blister,10.9988650515623
+16_blisterfluid,Amyloid Beta(1-42),IgA,Healthy,Blister,13.0420926050831
+16_blisterfluid,AQP4,IgA,Healthy,Blister,9.96701942409162
+16_blisterfluid,BAFF,IgA,Healthy,Blister,8.02592023394214
+16_blisterfluid,BCOADC-E2,IgA,Healthy,Blister,9.42625689115392
+16_blisterfluid,Beta2-Glycoprotein 1,IgA,Healthy,Blister,10.9877038603997
+16_blisterfluid,BPI,IgA,Healthy,Blister,10.2200759709843
+16_blisterfluid,Calprotectin/S100,IgA,Healthy,Blister,8.72228328518826
+16_blisterfluid,CD4,IgA,Healthy,Blister,12.4729041565435
+16_blisterfluid,CD40,IgA,Healthy,Blister,9.89576384279534
+16_blisterfluid,CENP-A,IgA,Healthy,Blister,14.5004858912114
+16_blisterfluid,CENP-B,IgA,Healthy,Blister,11.5151019173492
+16_blisterfluid,Collagen I,IgA,Healthy,Blister,1.44269431942324e-06
+16_blisterfluid,Collagen II,IgA,Healthy,Blister,0.466757615726172
+16_blisterfluid,Collagen III,IgA,Healthy,Blister,10.8653466448168
+16_blisterfluid,Collagen IV,IgA,Healthy,Blister,6.80229663223458
+16_blisterfluid,Collagen V,IgA,Healthy,Blister,16.1487399234727
+16_blisterfluid,Complement C1q,IgA,Healthy,Blister,17.4617610842584
+16_blisterfluid,Complement C3,IgA,Healthy,Blister,7.35078451988316
+16_blisterfluid,Complement C4,IgA,Healthy,Blister,9.71664800788143
+16_blisterfluid,Complement C5,IgA,Healthy,Blister,9.49434160157195
+16_blisterfluid,Complement C6,IgA,Healthy,Blister,7.68093964983798
+16_blisterfluid,Complement C7,IgA,Healthy,Blister,10.2599197653374
+16_blisterfluid,Complement C8,IgA,Healthy,Blister,10.6115823041211
+16_blisterfluid,Complement C9,IgA,Healthy,Blister,10.0924928868591
+16_blisterfluid,CRP,IgA,Healthy,Blister,13.0375619247625
+16_blisterfluid,Cytochrome C,IgA,Healthy,Blister,5.65391987311942
+16_blisterfluid,DFS70,IgA,Healthy,Blister,13.4591088204978
+16_blisterfluid,dsDNA,IgA,Healthy,Blister,12.9103983884373
+16_blisterfluid,EJ,IgA,Healthy,Blister,10.6600988747106
+16_blisterfluid,FACTOR B,IgA,Healthy,Blister,9.886611111851
+16_blisterfluid,FACTOR H,IgA,Healthy,Blister,9.82280820684975
+16_blisterfluid,FACTOR I,IgA,Healthy,Blister,5.24792751344359
+16_blisterfluid,FACTOR P,IgA,Healthy,Blister,1.44269431942324e-06
+16_blisterfluid,Fibrinogen Type I-S,IgA,Healthy,Blister,12.8680464152704
+16_blisterfluid,Fibronectin,IgA,Healthy,Blister,12.3109711389484
+16_blisterfluid,GAD65,IgA,Healthy,Blister,13.8940111601808
+16_blisterfluid,GBM,IgA,Healthy,Blister,15.3778358282443
+16_blisterfluid,Genomic DNA,IgA,Healthy,Blister,14.2179413069505
+16_blisterfluid,Gliadin,IgA,Healthy,Blister,9.37661380378433
+16_blisterfluid,gp210,IgA,Healthy,Blister,14.9054267411101
+16_blisterfluid,GP2,IgA,Healthy,Blister,8.19229281447077
+16_blisterfluid,H/K-ATPase,IgA,Healthy,Blister,8.37621982897555
+16_blisterfluid,Histone,IgA,Healthy,Blister,22.6641344007734
+16_blisterfluid,Histone H1,IgA,Healthy,Blister,20.1971751256956
+16_blisterfluid,Histone H2A,IgA,Healthy,Blister,20.1293266617471
+16_blisterfluid,Histone H2B,IgA,Healthy,Blister,20.7895094565741
+16_blisterfluid,Histone H3,IgA,Healthy,Blister,20.2497701645888
+16_blisterfluid,HSPG,IgA,Healthy,Blister,10.3943796247109
+16_blisterfluid,IA-2,IgA,Healthy,Blister,10.3382906936483
+16_blisterfluid,IF,IgA,Healthy,Blister,10.4220542508645
+16_blisterfluid,IFN-gamma,IgA,Healthy,Blister,12.3323147216087
+16_blisterfluid,IL-6,IgA,Healthy,Blister,8.52946862205161
+16_blisterfluid,IL-12/NKSF,IgA,Healthy,Blister,9.48767425502169
+16_blisterfluid,IL-17A,IgA,Healthy,Blister,11.9815396335506
+16_blisterfluid,Jo-1,IgA,Healthy,Blister,8.13409769744888
+16_blisterfluid,KS,IgA,Healthy,Blister,14.7020477647355
+16_blisterfluid,KU (P70/P80),IgA,Healthy,Blister,11.1777055880823
+16_blisterfluid,La/SS-B,IgA,Healthy,Blister,11.8694020237595
+16_blisterfluid,Laminin,IgA,Healthy,Blister,11.2841011259971
+16_blisterfluid,LC1,IgA,Healthy,Blister,8.7780409795484
+16_blisterfluid,LKM 1,IgA,Healthy,Blister,9.43668656018861
+16_blisterfluid,LPS,IgA,Healthy,Blister,6.01680828768655
+16_blisterfluid,Lysozyme C,IgA,Healthy,Blister,6.70575332678661
+16_blisterfluid,M2,IgA,Healthy,Blister,12.325888656021
+16_blisterfluid,MBP,IgA,Healthy,Blister,12.2266657410204
+16_blisterfluid,MDA5,IgA,Healthy,Blister,10.7529810172898
+16_blisterfluid,Mi-2,IgA,Healthy,Blister,7.60633488075696
+16_blisterfluid,Mitochondrion,IgA,Healthy,Blister,10.4226185517186
+16_blisterfluid,MPO,IgA,Healthy,Blister,16.6476812128537
+16_blisterfluid,Myosin,IgA,Healthy,Blister,4.08338358771008
+16_blisterfluid,Nrp1,IgA,Healthy,Blister,9.62984745363699
+16_blisterfluid,Nucleolin,IgA,Healthy,Blister,15.2151669710697
+16_blisterfluid,Nucleosome,IgA,Healthy,Blister,11.7569543638779
+16_blisterfluid,Nup 62,IgA,Healthy,Blister,10.6604166914136
+16_blisterfluid,NXP2,IgA,Healthy,Blister,9.56922191724563
+16_blisterfluid,OGDC-E2,IgA,Healthy,Blister,14.3934045357191
+16_blisterfluid,Ovalbumin,IgA,Healthy,Blister,9.40374171058111
+16_blisterfluid,P0,IgA,Healthy,Blister,12.1707575668944
+16_blisterfluid,P1,IgA,Healthy,Blister,15.0109658350046
+16_blisterfluid,P2,IgA,Healthy,Blister,9.04428823586536
+16_blisterfluid,PCNA,IgA,Healthy,Blister,6.75762335537697
+16_blisterfluid,PDC-E2,IgA,Healthy,Blister,11.8157731390779
+16_blisterfluid,PL-7,IgA,Healthy,Blister,12.5445117089518
+16_blisterfluid,PL-12,IgA,Healthy,Blister,10.2151410285056
+16_blisterfluid,PM/Scl-75,IgA,Healthy,Blister,9.84423498775875
+16_blisterfluid,PM/Scl 100,IgA,Healthy,Blister,12.5929694580627
+16_blisterfluid,PR3,IgA,Healthy,Blister,7.51662389198174
+16_blisterfluid,Proteoglycan,IgA,Healthy,Blister,3.52947740681023
+16_blisterfluid,Prothrombin,IgA,Healthy,Blister,11.8404473992289
+16_blisterfluid,Ro/SS-A(52 kDa),IgA,Healthy,Blister,2.61146750023341
+16_blisterfluid,Ro/SS-A(60 Kda),IgA,Healthy,Blister,7.60127680824814
+16_blisterfluid,SAE1/SAE2,IgA,Healthy,Blister,7.61948637605555
+16_blisterfluid,Scl-70,IgA,Healthy,Blister,11.5693543745711
+16_blisterfluid,SLA/LP,IgA,Healthy,Blister,10.0939852868733
+16_blisterfluid,Sm,IgA,Healthy,Blister,15.2672091799396
+16_blisterfluid,Sm/RNP,IgA,Healthy,Blister,14.8990533396388
+16_blisterfluid,SmD,IgA,Healthy,Blister,16.0063230867882
+16_blisterfluid,SmD1,IgA,Healthy,Blister,15.0856034734115
+16_blisterfluid,SmD2,IgA,Healthy,Blister,12.7454701308134
+16_blisterfluid,SmD3,IgA,Healthy,Blister,6.25502856981873
+16_blisterfluid,SP100,IgA,Healthy,Blister,5.64368305598158
+16_blisterfluid,SRP54,IgA,Healthy,Blister,12.2888826518014
+16_blisterfluid,ssDNA,IgA,Healthy,Blister,16.5052898748746
+16_blisterfluid,Tau,IgA,Healthy,Blister,17.5736685313412
+16_blisterfluid,Thyroglobulin,IgA,Healthy,Blister,9.93693233652239
+16_blisterfluid,TIF1 gamma,IgA,Healthy,Blister,17.3160547204014
+16_blisterfluid,TLR4,IgA,Healthy,Blister,11.5580245874406
+16_blisterfluid,TNF-alpha,IgA,Healthy,Blister,5.32192809488736
+16_blisterfluid,TPO,IgA,Healthy,Blister,12.1843558512873
+16_blisterfluid,tTG,IgA,Healthy,Blister,12.1216032869234
+16_blisterfluid,U1-snRNP 68/70kDa,IgA,Healthy,Blister,3.8073549220576
+16_blisterfluid,U1-snRNP A,IgA,Healthy,Blister,17.7645142216461
+16_blisterfluid,U1-snRNP C,IgA,Healthy,Blister,9.34336118269563
+16_blisterfluid,U-snRNP B/B,IgA,Healthy,Blister,11.5422558729521
+16_blisterfluid,Vimentin,IgA,Healthy,Blister,7.55497249615294
+16_blisterfluid,Vitronectin,IgA,Healthy,Blister,13.7983853765438
+16_blisterfluid,HIgControl 1,IgA,Healthy,Blister,23.3256111455386
+16_blisterfluid,HIgControl 2,IgA,Healthy,Blister,21.5285310592271
+16_blisterfluid,HIgControl 3,IgA,Healthy,Blister,20.2528036602365
+16_blisterfluid,HIgControl 4,IgA,Healthy,Blister,17.3180347350353
+16_blisterfluid,MIgControl 1,IgA,Healthy,Blister,17.4784627092575
+16_blisterfluid,MIgControl 2,IgA,Healthy,Blister,16.9044226020722
+16_blisterfluid,MIgControl 3,IgA,Healthy,Blister,15.7144108170028
+16_blisterfluid,MIgControl 4,IgA,Healthy,Blister,11.2217627653391
+17_blisterfluid,ACE2,IgA,Lupus,Blister,17.6801909715589
+17_blisterfluid,Aggrecan,IgA,Lupus,Blister,14.6048075691058
+17_blisterfluid,Alpha Fodrin,IgA,Lupus,Blister,18.5511325194825
+17_blisterfluid,Amyloid Beta(1-40),IgA,Lupus,Blister,11.7430794259079
+17_blisterfluid,Amyloid Beta(1-42),IgA,Lupus,Blister,15.5541934787412
+17_blisterfluid,AQP4,IgA,Lupus,Blister,14.9351507736309
+17_blisterfluid,BAFF,IgA,Lupus,Blister,14.368390659985
+17_blisterfluid,BCOADC-E2,IgA,Lupus,Blister,14.6607964863732
+17_blisterfluid,Beta2-Glycoprotein 1,IgA,Lupus,Blister,13.7549247587809
+17_blisterfluid,BPI,IgA,Lupus,Blister,12.7027746208361
+17_blisterfluid,Calprotectin/S100,IgA,Lupus,Blister,11.7603580849811
+17_blisterfluid,CD4,IgA,Lupus,Blister,13.1453773002953
+17_blisterfluid,CD40,IgA,Lupus,Blister,14.6993468790022
+17_blisterfluid,CENP-A,IgA,Lupus,Blister,14.6288608788868
+17_blisterfluid,CENP-B,IgA,Lupus,Blister,15.7205418983501
+17_blisterfluid,Collagen I,IgA,Lupus,Blister,1.44269431942324e-06
+17_blisterfluid,Collagen II,IgA,Lupus,Blister,15.8272511806125
+17_blisterfluid,Collagen III,IgA,Lupus,Blister,13.4517021886186
+17_blisterfluid,Collagen IV,IgA,Lupus,Blister,11.8451233520254
+17_blisterfluid,Collagen V,IgA,Lupus,Blister,16.2268285313928
+17_blisterfluid,Complement C1q,IgA,Lupus,Blister,18.705999167174
+17_blisterfluid,Complement C3,IgA,Lupus,Blister,13.403669424124
+17_blisterfluid,Complement C4,IgA,Lupus,Blister,14.6747276335844
+17_blisterfluid,Complement C5,IgA,Lupus,Blister,14.2282532987431
+17_blisterfluid,Complement C6,IgA,Lupus,Blister,15.2586522617845
+17_blisterfluid,Complement C7,IgA,Lupus,Blister,13.9660764008321
+17_blisterfluid,Complement C8,IgA,Lupus,Blister,17.0622020420427
+17_blisterfluid,Complement C9,IgA,Lupus,Blister,15.4005822733259
+17_blisterfluid,CRP,IgA,Lupus,Blister,15.9986551569816
+17_blisterfluid,Cytochrome C,IgA,Lupus,Blister,7.77528104866297
+17_blisterfluid,DFS70,IgA,Lupus,Blister,14.0002138700266
+17_blisterfluid,dsDNA,IgA,Lupus,Blister,16.1776374140002
+17_blisterfluid,EJ,IgA,Lupus,Blister,14.3176862730502
+17_blisterfluid,FACTOR B,IgA,Lupus,Blister,14.0979614931665
+17_blisterfluid,FACTOR H,IgA,Lupus,Blister,16.1962854937512
+17_blisterfluid,FACTOR I,IgA,Lupus,Blister,10.3166775113314
+17_blisterfluid,FACTOR P,IgA,Lupus,Blister,6.57851610453739
+17_blisterfluid,Fibrinogen Type I-S,IgA,Lupus,Blister,18.4990904819613
+17_blisterfluid,Fibronectin,IgA,Lupus,Blister,13.1553932136902
+17_blisterfluid,GAD65,IgA,Lupus,Blister,17.3008082778321
+17_blisterfluid,GBM,IgA,Lupus,Blister,14.5225947714273
+17_blisterfluid,Genomic DNA,IgA,Lupus,Blister,17.0750132553548
+17_blisterfluid,Gliadin,IgA,Lupus,Blister,15.3764816090111
+17_blisterfluid,gp210,IgA,Lupus,Blister,16.0082452478606
+17_blisterfluid,GP2,IgA,Lupus,Blister,14.8400856631345
+17_blisterfluid,H/K-ATPase,IgA,Lupus,Blister,9.6307876756229
+17_blisterfluid,Histone,IgA,Lupus,Blister,18.8252221944696
+17_blisterfluid,Histone H1,IgA,Lupus,Blister,19.6803318332673
+17_blisterfluid,Histone H2A,IgA,Lupus,Blister,18.6430198957939
+17_blisterfluid,Histone H2B,IgA,Lupus,Blister,17.7287453698923
+17_blisterfluid,Histone H3,IgA,Lupus,Blister,17.4188778761629
+17_blisterfluid,HSPG,IgA,Lupus,Blister,13.8096033044476
+17_blisterfluid,IA-2,IgA,Lupus,Blister,17.2749326353682
+17_blisterfluid,IF,IgA,Lupus,Blister,15.2773398309267
+17_blisterfluid,IFN-gamma,IgA,Lupus,Blister,22.5331532635742
+17_blisterfluid,IL-6,IgA,Lupus,Blister,14.0510314825903
+17_blisterfluid,IL-12/NKSF,IgA,Lupus,Blister,21.3814970317564
+17_blisterfluid,IL-17A,IgA,Lupus,Blister,17.9736533799363
+17_blisterfluid,Jo-1,IgA,Lupus,Blister,14.6626941297527
+17_blisterfluid,KS,IgA,Lupus,Blister,15.04526456706
+17_blisterfluid,KU (P70/P80),IgA,Lupus,Blister,16.7070742603994
+17_blisterfluid,La/SS-B,IgA,Lupus,Blister,17.7925291716629
+17_blisterfluid,Laminin,IgA,Lupus,Blister,12.7831394420154
+17_blisterfluid,LC1,IgA,Lupus,Blister,12.8825294269222
+17_blisterfluid,LKM 1,IgA,Lupus,Blister,13.0637767719453
+17_blisterfluid,LPS,IgA,Lupus,Blister,13.8824972585406
+17_blisterfluid,Lysozyme C,IgA,Lupus,Blister,9.90311059592566
+17_blisterfluid,M2,IgA,Lupus,Blister,15.6792284718777
+17_blisterfluid,MBP,IgA,Lupus,Blister,14.8252738482912
+17_blisterfluid,MDA5,IgA,Lupus,Blister,15.2893362284867
+17_blisterfluid,Mi-2,IgA,Lupus,Blister,13.1617365541709
+17_blisterfluid,Mitochondrion,IgA,Lupus,Blister,18.4669913388867
+17_blisterfluid,MPO,IgA,Lupus,Blister,16.4618483632953
+17_blisterfluid,Myosin,IgA,Lupus,Blister,9.14547367031771
+17_blisterfluid,Nrp1,IgA,Lupus,Blister,19.6883215754492
+17_blisterfluid,Nucleolin,IgA,Lupus,Blister,18.0774035966848
+17_blisterfluid,Nucleosome,IgA,Lupus,Blister,16.4035892541407
+17_blisterfluid,Nup 62,IgA,Lupus,Blister,19.1747968713093
+17_blisterfluid,NXP2,IgA,Lupus,Blister,15.1594470925869
+17_blisterfluid,OGDC-E2,IgA,Lupus,Blister,14.2180951773648
+17_blisterfluid,Ovalbumin,IgA,Lupus,Blister,14.9800771949068
+17_blisterfluid,P0,IgA,Lupus,Blister,15.7746495358824
+17_blisterfluid,P1,IgA,Lupus,Blister,15.9562662900601
+17_blisterfluid,P2,IgA,Lupus,Blister,15.4629767131821
+17_blisterfluid,PCNA,IgA,Lupus,Blister,13.0760297905493
+17_blisterfluid,PDC-E2,IgA,Lupus,Blister,15.7621165572557
+17_blisterfluid,PL-7,IgA,Lupus,Blister,16.8324285810001
+17_blisterfluid,PL-12,IgA,Lupus,Blister,15.626471035826
+17_blisterfluid,PM/Scl-75,IgA,Lupus,Blister,15.2465406184923
+17_blisterfluid,PM/Scl 100,IgA,Lupus,Blister,15.935598787617
+17_blisterfluid,PR3,IgA,Lupus,Blister,12.1856953792333
+17_blisterfluid,Proteoglycan,IgA,Lupus,Blister,13.0182182645586
+17_blisterfluid,Prothrombin,IgA,Lupus,Blister,14.1241353702809
+17_blisterfluid,Ro/SS-A(52 kDa),IgA,Lupus,Blister,3.95654459495027
+17_blisterfluid,Ro/SS-A(60 Kda),IgA,Lupus,Blister,11.5505706456116
+17_blisterfluid,SAE1/SAE2,IgA,Lupus,Blister,15.2279145249696
+17_blisterfluid,Scl-70,IgA,Lupus,Blister,15.5019977846103
+17_blisterfluid,SLA/LP,IgA,Lupus,Blister,12.1838850093828
+17_blisterfluid,Sm,IgA,Lupus,Blister,16.3311939943148
+17_blisterfluid,Sm/RNP,IgA,Lupus,Blister,15.2799966831625
+17_blisterfluid,SmD,IgA,Lupus,Blister,15.5422312928566
+17_blisterfluid,SmD1,IgA,Lupus,Blister,16.0221040950085
+17_blisterfluid,SmD2,IgA,Lupus,Blister,13.1117545690799
+17_blisterfluid,SmD3,IgA,Lupus,Blister,7.81928338370528
+17_blisterfluid,SP100,IgA,Lupus,Blister,9.63887209585696
+17_blisterfluid,SRP54,IgA,Lupus,Blister,13.7020298484549
+17_blisterfluid,ssDNA,IgA,Lupus,Blister,21.1667674999965
+17_blisterfluid,Tau,IgA,Lupus,Blister,19.9800416231963
+17_blisterfluid,Thyroglobulin,IgA,Lupus,Blister,12.2876471682598
+17_blisterfluid,TIF1 gamma,IgA,Lupus,Blister,19.723350161253
+17_blisterfluid,TLR4,IgA,Lupus,Blister,16.8840826618395
+17_blisterfluid,TNF-alpha,IgA,Lupus,Blister,9.70808892354549
+17_blisterfluid,TPO,IgA,Lupus,Blister,17.7075547848676
+17_blisterfluid,tTG,IgA,Lupus,Blister,18.7040629296241
+17_blisterfluid,U1-snRNP 68/70kDa,IgA,Lupus,Blister,9.39521278674934
+17_blisterfluid,U1-snRNP A,IgA,Lupus,Blister,17.8694721275799
+17_blisterfluid,U1-snRNP C,IgA,Lupus,Blister,10.7473936939735
+17_blisterfluid,U-snRNP B/B,IgA,Lupus,Blister,13.6867037748529
+17_blisterfluid,Vimentin,IgA,Lupus,Blister,11.0293548732837
+17_blisterfluid,Vitronectin,IgA,Lupus,Blister,21.1908292962775
+17_blisterfluid,HIgControl 1,IgA,Lupus,Blister,20.6974926143011
+17_blisterfluid,HIgControl 2,IgA,Lupus,Blister,21.8021607627232
+17_blisterfluid,HIgControl 3,IgA,Lupus,Blister,21.0197404516136
+17_blisterfluid,HIgControl 4,IgA,Lupus,Blister,17.9883227473232
+17_blisterfluid,MIgControl 1,IgA,Lupus,Blister,18.1737705171435
+17_blisterfluid,MIgControl 2,IgA,Lupus,Blister,18.5280201575825
+17_blisterfluid,MIgControl 3,IgA,Lupus,Blister,17.1358864662275
+17_blisterfluid,MIgControl 4,IgA,Lupus,Blister,15.4743166905564
+19_blisterfluid ,ACE2,IgA,Healthy,Blister,14.244282881958
+19_blisterfluid ,Aggrecan,IgA,Healthy,Blister,10.3480365127006
+19_blisterfluid ,Alpha Fodrin,IgA,Healthy,Blister,18.2217310088355
+19_blisterfluid ,Amyloid Beta(1-40),IgA,Healthy,Blister,12.3081030653513
+19_blisterfluid ,Amyloid Beta(1-42),IgA,Healthy,Blister,14.6132153680092
+19_blisterfluid ,AQP4,IgA,Healthy,Blister,12.2199446528467
+19_blisterfluid ,BAFF,IgA,Healthy,Blister,14.4135311302209
+19_blisterfluid ,BCOADC-E2,IgA,Healthy,Blister,16.2962753929085
+19_blisterfluid ,Beta2-Glycoprotein 1,IgA,Healthy,Blister,12.4384163184159
+19_blisterfluid ,BPI,IgA,Healthy,Blister,12.6605120673403
+19_blisterfluid ,Calprotectin/S100,IgA,Healthy,Blister,12.5977748128168
+19_blisterfluid ,CD4,IgA,Healthy,Blister,12.8443978153958
+19_blisterfluid ,CD40,IgA,Healthy,Blister,13.3647428559011
+19_blisterfluid ,CENP-A,IgA,Healthy,Blister,13.7359763961504
+19_blisterfluid ,CENP-B,IgA,Healthy,Blister,14.3137671785297
+19_blisterfluid ,Collagen I,IgA,Healthy,Blister,1.44269431942324e-06
+19_blisterfluid ,Collagen II,IgA,Healthy,Blister,13.1594878334847
+19_blisterfluid ,Collagen III,IgA,Healthy,Blister,11.9985873448003
+19_blisterfluid ,Collagen IV,IgA,Healthy,Blister,12.3483053931585
+19_blisterfluid ,Collagen V,IgA,Healthy,Blister,14.500708845416
+19_blisterfluid ,Complement C1q,IgA,Healthy,Blister,17.6269443491312
+19_blisterfluid ,Complement C3,IgA,Healthy,Blister,10.6556201621093
+19_blisterfluid ,Complement C4,IgA,Healthy,Blister,13.9147897588422
+19_blisterfluid ,Complement C5,IgA,Healthy,Blister,14.0496653087387
+19_blisterfluid ,Complement C6,IgA,Healthy,Blister,14.9675903096377
+19_blisterfluid ,Complement C7,IgA,Healthy,Blister,12.5496966021538
+19_blisterfluid ,Complement C8,IgA,Healthy,Blister,13.5605614617628
+19_blisterfluid ,Complement C9,IgA,Healthy,Blister,14.683621197768
+19_blisterfluid ,CRP,IgA,Healthy,Blister,13.546414094353
+19_blisterfluid ,Cytochrome C,IgA,Healthy,Blister,8.65106604628205
+19_blisterfluid ,DFS70,IgA,Healthy,Blister,13.6005801202187
+19_blisterfluid ,dsDNA,IgA,Healthy,Blister,14.2626368555891
+19_blisterfluid ,EJ,IgA,Healthy,Blister,13.4822533551909
+19_blisterfluid ,FACTOR B,IgA,Healthy,Blister,12.1161719810885
+19_blisterfluid ,FACTOR H,IgA,Healthy,Blister,13.2280034878045
+19_blisterfluid ,FACTOR I,IgA,Healthy,Blister,8.78774098155512
+19_blisterfluid ,FACTOR P,IgA,Healthy,Blister,3.62947319678695
+19_blisterfluid ,Fibrinogen Type I-S,IgA,Healthy,Blister,14.8928934159134
+19_blisterfluid ,Fibronectin,IgA,Healthy,Blister,12.2625194850342
+19_blisterfluid ,GAD65,IgA,Healthy,Blister,15.1439737721234
+19_blisterfluid ,GBM,IgA,Healthy,Blister,14.5206564599628
+19_blisterfluid ,Genomic DNA,IgA,Healthy,Blister,14.3397478292403
+19_blisterfluid ,Gliadin,IgA,Healthy,Blister,13.1415560867744
+19_blisterfluid ,gp210,IgA,Healthy,Blister,14.291349963624
+19_blisterfluid ,GP2,IgA,Healthy,Blister,11.6967324173139
+19_blisterfluid ,H/K-ATPase,IgA,Healthy,Blister,13.5401931957685
+19_blisterfluid ,Histone,IgA,Healthy,Blister,18.2305903220175
+19_blisterfluid ,Histone H1,IgA,Healthy,Blister,17.3046362564567
+19_blisterfluid ,Histone H2A,IgA,Healthy,Blister,17.504495383633
+19_blisterfluid ,Histone H2B,IgA,Healthy,Blister,16.9189595125085
+19_blisterfluid ,Histone H3,IgA,Healthy,Blister,15.3927435466087
+19_blisterfluid ,HSPG,IgA,Healthy,Blister,16.3695546638744
+19_blisterfluid ,IA-2,IgA,Healthy,Blister,14.680579405658
+19_blisterfluid ,IF,IgA,Healthy,Blister,12.5105787513974
+19_blisterfluid ,IFN-gamma,IgA,Healthy,Blister,13.7480162763971
+19_blisterfluid ,IL-6,IgA,Healthy,Blister,13.5980362115773
+19_blisterfluid ,IL-12/NKSF,IgA,Healthy,Blister,12.5036137148035
+19_blisterfluid ,IL-17A,IgA,Healthy,Blister,13.6155572245489
+19_blisterfluid ,Jo-1,IgA,Healthy,Blister,12.1396327255223
+19_blisterfluid ,KS,IgA,Healthy,Blister,11.0829101150766
+19_blisterfluid ,KU (P70/P80),IgA,Healthy,Blister,14.3647108517192
+19_blisterfluid ,La/SS-B,IgA,Healthy,Blister,14.3134189042624
+19_blisterfluid ,Laminin,IgA,Healthy,Blister,18.9712915034546
+19_blisterfluid ,LC1,IgA,Healthy,Blister,13.9055602327312
+19_blisterfluid ,LKM 1,IgA,Healthy,Blister,14.1615105407359
+19_blisterfluid ,LPS,IgA,Healthy,Blister,15.2171918957005
+19_blisterfluid ,Lysozyme C,IgA,Healthy,Blister,9.57455757776738
+19_blisterfluid ,M2,IgA,Healthy,Blister,14.7202043313422
+19_blisterfluid ,MBP,IgA,Healthy,Blister,12.4742212409069
+19_blisterfluid ,MDA5,IgA,Healthy,Blister,15.3882859740503
+19_blisterfluid ,Mi-2,IgA,Healthy,Blister,10.8120948577106
+19_blisterfluid ,Mitochondrion,IgA,Healthy,Blister,15.9441707658794
+19_blisterfluid ,MPO,IgA,Healthy,Blister,15.4878125780253
+19_blisterfluid ,Myosin,IgA,Healthy,Blister,9.94184725121768
+19_blisterfluid ,Nrp1,IgA,Healthy,Blister,18.8909215213705
+19_blisterfluid ,Nucleolin,IgA,Healthy,Blister,17.7428479774981
+19_blisterfluid ,Nucleosome,IgA,Healthy,Blister,16.1554925536825
+19_blisterfluid ,Nup 62,IgA,Healthy,Blister,12.6184619025016
+19_blisterfluid ,NXP2,IgA,Healthy,Blister,12.9289998563684
+19_blisterfluid ,OGDC-E2,IgA,Healthy,Blister,14.7585257834917
+19_blisterfluid ,Ovalbumin,IgA,Healthy,Blister,11.4412251268587
+19_blisterfluid ,P0,IgA,Healthy,Blister,13.6087355632009
+19_blisterfluid ,P1,IgA,Healthy,Blister,15.7168993878393
+19_blisterfluid ,P2,IgA,Healthy,Blister,6.04894454032837
+19_blisterfluid ,PCNA,IgA,Healthy,Blister,10.7003699226122
+19_blisterfluid ,PDC-E2,IgA,Healthy,Blister,12.9604203036588
+19_blisterfluid ,PL-7,IgA,Healthy,Blister,14.6759561648773
+19_blisterfluid ,PL-12,IgA,Healthy,Blister,13.1740352674359
+19_blisterfluid ,PM/Scl-75,IgA,Healthy,Blister,12.3860712959538
+19_blisterfluid ,PM/Scl 100,IgA,Healthy,Blister,18.2964813949094
+19_blisterfluid ,PR3,IgA,Healthy,Blister,11.1054561226452
+19_blisterfluid ,Proteoglycan,IgA,Healthy,Blister,11.6021701665474
+19_blisterfluid ,Prothrombin,IgA,Healthy,Blister,11.9267137857674
+19_blisterfluid ,Ro/SS-A(52 kDa),IgA,Healthy,Blister,4.27336668911861
+19_blisterfluid ,Ro/SS-A(60 Kda),IgA,Healthy,Blister,9.83305926779904
+19_blisterfluid ,SAE1/SAE2,IgA,Healthy,Blister,11.3259981028842
+19_blisterfluid ,Scl-70,IgA,Healthy,Blister,12.7882961766116
+19_blisterfluid ,SLA/LP,IgA,Healthy,Blister,11.6415126129124
+19_blisterfluid ,Sm,IgA,Healthy,Blister,13.6476823685903
+19_blisterfluid ,Sm/RNP,IgA,Healthy,Blister,13.2186419375078
+19_blisterfluid ,SmD,IgA,Healthy,Blister,13.6663405234663
+19_blisterfluid ,SmD1,IgA,Healthy,Blister,14.1638435212079
+19_blisterfluid ,SmD2,IgA,Healthy,Blister,11.841886166484
+19_blisterfluid ,SmD3,IgA,Healthy,Blister,7.72228328518826
+19_blisterfluid ,SP100,IgA,Healthy,Blister,9.39855612939105
+19_blisterfluid ,SRP54,IgA,Healthy,Blister,13.5140408695127
+19_blisterfluid ,ssDNA,IgA,Healthy,Blister,17.3675147453323
+19_blisterfluid ,Tau,IgA,Healthy,Blister,17.0894509000949
+19_blisterfluid ,Thyroglobulin,IgA,Healthy,Blister,13.0165049817428
+19_blisterfluid ,TIF1 gamma,IgA,Healthy,Blister,17.535287209661
+19_blisterfluid ,TLR4,IgA,Healthy,Blister,20.6199291006526
+19_blisterfluid ,TNF-alpha,IgA,Healthy,Blister,11.4329775399937
+19_blisterfluid ,TPO,IgA,Healthy,Blister,14.0412587490605
+19_blisterfluid ,tTG,IgA,Healthy,Blister,14.1206391035083
+19_blisterfluid ,U1-snRNP 68/70kDa,IgA,Healthy,Blister,8.62293035092018
+19_blisterfluid ,U1-snRNP A,IgA,Healthy,Blister,13.9422582264372
+19_blisterfluid ,U1-snRNP C,IgA,Healthy,Blister,11.0727079257437
+19_blisterfluid ,U-snRNP B/B,IgA,Healthy,Blister,12.6261792972286
+19_blisterfluid ,Vimentin,IgA,Healthy,Blister,9.95442062330056
+19_blisterfluid ,Vitronectin,IgA,Healthy,Blister,13.6275231690937
+19_blisterfluid ,HIgControl 1,IgA,Healthy,Blister,20.4834396504897
+19_blisterfluid ,HIgControl 2,IgA,Healthy,Blister,19.8041084733813
+19_blisterfluid ,HIgControl 3,IgA,Healthy,Blister,19.7968328744793
+19_blisterfluid ,HIgControl 4,IgA,Healthy,Blister,16.7949174014016
+19_blisterfluid ,MIgControl 1,IgA,Healthy,Blister,18.5003334821323
+19_blisterfluid ,MIgControl 2,IgA,Healthy,Blister,17.0396191568649
+19_blisterfluid ,MIgControl 3,IgA,Healthy,Blister,16.9376674297468
+19_blisterfluid ,MIgControl 4,IgA,Healthy,Blister,16.7044381332443
+21_blisterfluid,ACE2,IgA,Lupus,Blister,13.748202390637
+21_blisterfluid,Aggrecan,IgA,Lupus,Blister,10.8654551038754
+21_blisterfluid,Alpha Fodrin,IgA,Lupus,Blister,19.4250927950719
+21_blisterfluid,Amyloid Beta(1-40),IgA,Lupus,Blister,13.2708865934439
+21_blisterfluid,Amyloid Beta(1-42),IgA,Lupus,Blister,14.7198286993858
+21_blisterfluid,AQP4,IgA,Lupus,Blister,15.2974506049736
+21_blisterfluid,BAFF,IgA,Lupus,Blister,14.5779966948179
+21_blisterfluid,BCOADC-E2,IgA,Lupus,Blister,12.7614064154927
+21_blisterfluid,Beta2-Glycoprotein 1,IgA,Lupus,Blister,11.6776351957099
+21_blisterfluid,BPI,IgA,Lupus,Blister,11.8991473014783
+21_blisterfluid,Calprotectin/S100,IgA,Lupus,Blister,11.7900183335293
+21_blisterfluid,CD4,IgA,Lupus,Blister,12.3584795066705
+21_blisterfluid,CD40,IgA,Lupus,Blister,13.1479746499085
+21_blisterfluid,CENP-A,IgA,Lupus,Blister,13.5523498707238
+21_blisterfluid,CENP-B,IgA,Lupus,Blister,14.6944758849681
+21_blisterfluid,Collagen I,IgA,Lupus,Blister,1.44269431942324e-06
+21_blisterfluid,Collagen II,IgA,Lupus,Blister,15.4105207401144
+21_blisterfluid,Collagen III,IgA,Lupus,Blister,12.6678965591554
+21_blisterfluid,Collagen IV,IgA,Lupus,Blister,11.2426651711575
+21_blisterfluid,Collagen V,IgA,Lupus,Blister,14.2028047869186
+21_blisterfluid,Complement C1q,IgA,Lupus,Blister,16.4972731127867
+21_blisterfluid,Complement C3,IgA,Lupus,Blister,11.3417481351566
+21_blisterfluid,Complement C4,IgA,Lupus,Blister,13.17886579049
+21_blisterfluid,Complement C5,IgA,Lupus,Blister,14.9113422211223
+21_blisterfluid,Complement C6,IgA,Lupus,Blister,14.9256773673668
+21_blisterfluid,Complement C7,IgA,Lupus,Blister,13.4052425333636
+21_blisterfluid,Complement C8,IgA,Lupus,Blister,13.6165342846612
+21_blisterfluid,Complement C9,IgA,Lupus,Blister,14.0954791322552
+21_blisterfluid,CRP,IgA,Lupus,Blister,14.062610276033
+21_blisterfluid,Cytochrome C,IgA,Lupus,Blister,11.2791389876028
+21_blisterfluid,DFS70,IgA,Lupus,Blister,13.5057189019422
+21_blisterfluid,dsDNA,IgA,Lupus,Blister,16.205746775827
+21_blisterfluid,EJ,IgA,Lupus,Blister,13.7404306252268
+21_blisterfluid,FACTOR B,IgA,Lupus,Blister,13.0947499150086
+21_blisterfluid,FACTOR H,IgA,Lupus,Blister,13.3473617389892
+21_blisterfluid,FACTOR I,IgA,Lupus,Blister,10.4805221317322
+21_blisterfluid,FACTOR P,IgA,Lupus,Blister,4.13651953255056
+21_blisterfluid,Fibrinogen Type I-S,IgA,Lupus,Blister,13.3666890916659
+21_blisterfluid,Fibronectin,IgA,Lupus,Blister,11.4552283142094
+21_blisterfluid,GAD65,IgA,Lupus,Blister,15.4020797793356
+21_blisterfluid,GBM,IgA,Lupus,Blister,14.7254431892831
+21_blisterfluid,Genomic DNA,IgA,Lupus,Blister,19.4803664016098
+21_blisterfluid,Gliadin,IgA,Lupus,Blister,12.571976447672
+21_blisterfluid,gp210,IgA,Lupus,Blister,13.7341577621534
+21_blisterfluid,GP2,IgA,Lupus,Blister,11.7224262123354
+21_blisterfluid,H/K-ATPase,IgA,Lupus,Blister,11.4118995470943
+21_blisterfluid,Histone,IgA,Lupus,Blister,18.0610069286266
+21_blisterfluid,Histone H1,IgA,Lupus,Blister,18.2400051528605
+21_blisterfluid,Histone H2A,IgA,Lupus,Blister,16.5662422733265
+21_blisterfluid,Histone H2B,IgA,Lupus,Blister,16.878396830359
+21_blisterfluid,Histone H3,IgA,Lupus,Blister,15.6475047536822
+21_blisterfluid,HSPG,IgA,Lupus,Blister,13.8742689467436
+21_blisterfluid,IA-2,IgA,Lupus,Blister,13.2836762096252
+21_blisterfluid,IF,IgA,Lupus,Blister,14.3054647163867
+21_blisterfluid,IFN-gamma,IgA,Lupus,Blister,13.5605105924305
+21_blisterfluid,IL-6,IgA,Lupus,Blister,14.1554897075861
+21_blisterfluid,IL-12/NKSF,IgA,Lupus,Blister,13.556291245003
+21_blisterfluid,IL-17A,IgA,Lupus,Blister,11.4099318453639
+21_blisterfluid,Jo-1,IgA,Lupus,Blister,13.8624592856919
+21_blisterfluid,KS,IgA,Lupus,Blister,14.1211284309645
+21_blisterfluid,KU (P70/P80),IgA,Lupus,Blister,14.9878942650487
+21_blisterfluid,La/SS-B,IgA,Lupus,Blister,15.2815731837753
+21_blisterfluid,Laminin,IgA,Lupus,Blister,15.6240434755502
+21_blisterfluid,LC1,IgA,Lupus,Blister,12.6761699822934
+21_blisterfluid,LKM 1,IgA,Lupus,Blister,14.6273855434932
+21_blisterfluid,LPS,IgA,Lupus,Blister,11.386944959126
+21_blisterfluid,Lysozyme C,IgA,Lupus,Blister,8.4274605635153
+21_blisterfluid,M2,IgA,Lupus,Blister,13.6133046485351
+21_blisterfluid,MBP,IgA,Lupus,Blister,12.3079566880495
+21_blisterfluid,MDA5,IgA,Lupus,Blister,14.2690123747978
+21_blisterfluid,Mi-2,IgA,Lupus,Blister,12.2808022272659
+21_blisterfluid,Mitochondrion,IgA,Lupus,Blister,16.1649865189426
+21_blisterfluid,MPO,IgA,Lupus,Blister,15.7210216246702
+21_blisterfluid,Myosin,IgA,Lupus,Blister,9.54957484113626
+21_blisterfluid,Nrp1,IgA,Lupus,Blister,14.3642583234537
+21_blisterfluid,Nucleolin,IgA,Lupus,Blister,14.7354621504874
+21_blisterfluid,Nucleosome,IgA,Lupus,Blister,16.1839859917573
+21_blisterfluid,Nup 62,IgA,Lupus,Blister,14.2782612683329
+21_blisterfluid,NXP2,IgA,Lupus,Blister,14.247649417851
+21_blisterfluid,OGDC-E2,IgA,Lupus,Blister,13.9833083725437
+21_blisterfluid,Ovalbumin,IgA,Lupus,Blister,11.4519209492354
+21_blisterfluid,P0,IgA,Lupus,Blister,13.5959743668064
+21_blisterfluid,P1,IgA,Lupus,Blister,15.211489571023
+21_blisterfluid,P2,IgA,Lupus,Blister,10.587367335164
+21_blisterfluid,PCNA,IgA,Lupus,Blister,11.49357928978
+21_blisterfluid,PDC-E2,IgA,Lupus,Blister,13.2484068985365
+21_blisterfluid,PL-7,IgA,Lupus,Blister,13.8690177297249
+21_blisterfluid,PL-12,IgA,Lupus,Blister,14.7522018667428
+21_blisterfluid,PM/Scl-75,IgA,Lupus,Blister,13.7103447576796
+21_blisterfluid,PM/Scl 100,IgA,Lupus,Blister,14.122710043197
+21_blisterfluid,PR3,IgA,Lupus,Blister,12.4341039305958
+21_blisterfluid,Proteoglycan,IgA,Lupus,Blister,9.43439992184619
+21_blisterfluid,Prothrombin,IgA,Lupus,Blister,12.6918956090671
+21_blisterfluid,Ro/SS-A(52 kDa),IgA,Lupus,Blister,4.33906610375942
+21_blisterfluid,Ro/SS-A(60 Kda),IgA,Lupus,Blister,12.3320839052523
+21_blisterfluid,SAE1/SAE2,IgA,Lupus,Blister,10.8957903452959
+21_blisterfluid,Scl-70,IgA,Lupus,Blister,13.8888823707616
+21_blisterfluid,SLA/LP,IgA,Lupus,Blister,12.654723006008
+21_blisterfluid,Sm,IgA,Lupus,Blister,16.3018751054181
+21_blisterfluid,Sm/RNP,IgA,Lupus,Blister,13.3925190129813
+21_blisterfluid,SmD,IgA,Lupus,Blister,14.2064767947908
+21_blisterfluid,SmD1,IgA,Lupus,Blister,14.0035048457509
+21_blisterfluid,SmD2,IgA,Lupus,Blister,13.6717563823874
+21_blisterfluid,SmD3,IgA,Lupus,Blister,7.29353832164999
+21_blisterfluid,SP100,IgA,Lupus,Blister,9.34137982858828
+21_blisterfluid,SRP54,IgA,Lupus,Blister,13.4031716741466
+21_blisterfluid,ssDNA,IgA,Lupus,Blister,20.7720561943531
+21_blisterfluid,Tau,IgA,Lupus,Blister,17.9935085413402
+21_blisterfluid,Thyroglobulin,IgA,Lupus,Blister,12.2957554485446
+21_blisterfluid,TIF1 gamma,IgA,Lupus,Blister,18.0026847787851
+21_blisterfluid,TLR4,IgA,Lupus,Blister,15.848856502524
+21_blisterfluid,TNF-alpha,IgA,Lupus,Blister,10.9119340202423
+21_blisterfluid,TPO,IgA,Lupus,Blister,14.5355402980388
+21_blisterfluid,tTG,IgA,Lupus,Blister,15.7077681217215
+21_blisterfluid,U1-snRNP 68/70kDa,IgA,Lupus,Blister,10.2482828045308
+21_blisterfluid,U1-snRNP A,IgA,Lupus,Blister,13.9489551459895
+21_blisterfluid,U1-snRNP C,IgA,Lupus,Blister,9.90234496380439
+21_blisterfluid,U-snRNP B/B,IgA,Lupus,Blister,13.1510310117663
+21_blisterfluid,Vimentin,IgA,Lupus,Blister,10.0363274918178
+21_blisterfluid,Vitronectin,IgA,Lupus,Blister,14.2890030141382
+21_blisterfluid,HIgControl 1,IgA,Lupus,Blister,20.4082034454111
+21_blisterfluid,HIgControl 2,IgA,Lupus,Blister,20.1875964753786
+21_blisterfluid,HIgControl 3,IgA,Lupus,Blister,19.3503887307181
+21_blisterfluid,HIgControl 4,IgA,Lupus,Blister,15.587119060311
+21_blisterfluid,MIgControl 1,IgA,Lupus,Blister,16.9637937963661
+21_blisterfluid,MIgControl 2,IgA,Lupus,Blister,15.4892962943795
+21_blisterfluid,MIgControl 3,IgA,Lupus,Blister,14.2739805856074
+21_blisterfluid,MIgControl 4,IgA,Lupus,Blister,11.9279753193365
+23_blisterfluid            ,ACE2,IgA,Lupus,Blister,15.0920578357654
+23_blisterfluid            ,Aggrecan,IgA,Lupus,Blister,11.2619676640819
+23_blisterfluid            ,Alpha Fodrin,IgA,Lupus,Blister,20.9967769405246
+23_blisterfluid            ,Amyloid Beta(1-40),IgA,Lupus,Blister,14.6269531444056
+23_blisterfluid            ,Amyloid Beta(1-42),IgA,Lupus,Blister,16.6704513641304
+23_blisterfluid            ,AQP4,IgA,Lupus,Blister,14.9447767466427
+23_blisterfluid            ,BAFF,IgA,Lupus,Blister,13.6234299486072
+23_blisterfluid            ,BCOADC-E2,IgA,Lupus,Blister,13.6210988431713
+23_blisterfluid            ,Beta2-Glycoprotein 1,IgA,Lupus,Blister,13.6854622317365
+23_blisterfluid            ,BPI,IgA,Lupus,Blister,12.556121500289
+23_blisterfluid            ,Calprotectin/S100,IgA,Lupus,Blister,15.5516909306738
+23_blisterfluid            ,CD4,IgA,Lupus,Blister,11.5032369148122
+23_blisterfluid            ,CD40,IgA,Lupus,Blister,14.0170294271139
+23_blisterfluid            ,CENP-A,IgA,Lupus,Blister,16.2100918999657
+23_blisterfluid            ,CENP-B,IgA,Lupus,Blister,16.079769526951
+23_blisterfluid            ,Collagen I,IgA,Lupus,Blister,1.44269431942324e-06
+23_blisterfluid            ,Collagen II,IgA,Lupus,Blister,17.3628689389875
+23_blisterfluid            ,Collagen III,IgA,Lupus,Blister,13.6883068682278
+23_blisterfluid            ,Collagen IV,IgA,Lupus,Blister,10.492439572904
+23_blisterfluid            ,Collagen V,IgA,Lupus,Blister,16.024832160722
+23_blisterfluid            ,Complement C1q,IgA,Lupus,Blister,19.7983274582442
+23_blisterfluid            ,Complement C3,IgA,Lupus,Blister,10.6776095416645
+23_blisterfluid            ,Complement C4,IgA,Lupus,Blister,13.6656862212393
+23_blisterfluid            ,Complement C5,IgA,Lupus,Blister,14.0233406971712
+23_blisterfluid            ,Complement C6,IgA,Lupus,Blister,14.7252173631043
+23_blisterfluid            ,Complement C7,IgA,Lupus,Blister,14.0654095708368
+23_blisterfluid            ,Complement C8,IgA,Lupus,Blister,14.7884806588733
+23_blisterfluid            ,Complement C9,IgA,Lupus,Blister,15.519413862702
+23_blisterfluid            ,CRP,IgA,Lupus,Blister,14.1062637383066
+23_blisterfluid            ,Cytochrome C,IgA,Lupus,Blister,7.92878335083278
+23_blisterfluid            ,DFS70,IgA,Lupus,Blister,15.085550000711
+23_blisterfluid            ,dsDNA,IgA,Lupus,Blister,16.9013501208711
+23_blisterfluid            ,EJ,IgA,Lupus,Blister,13.5139365347719
+23_blisterfluid            ,FACTOR B,IgA,Lupus,Blister,13.3733540356253
+23_blisterfluid            ,FACTOR H,IgA,Lupus,Blister,13.206105941952
+23_blisterfluid            ,FACTOR I,IgA,Lupus,Blister,10.3523684646855
+23_blisterfluid            ,FACTOR P,IgA,Lupus,Blister,1.605257262939
+23_blisterfluid            ,Fibrinogen Type I-S,IgA,Lupus,Blister,15.2914966505531
+23_blisterfluid            ,Fibronectin,IgA,Lupus,Blister,11.6917299992935
+23_blisterfluid            ,GAD65,IgA,Lupus,Blister,16.2567130422772
+23_blisterfluid            ,GBM,IgA,Lupus,Blister,15.8843890894556
+23_blisterfluid            ,Genomic DNA,IgA,Lupus,Blister,16.8901539197892
+23_blisterfluid            ,Gliadin,IgA,Lupus,Blister,13.9936840682331
+23_blisterfluid            ,gp210,IgA,Lupus,Blister,15.3715488064273
+23_blisterfluid            ,GP2,IgA,Lupus,Blister,11.9192752705576
+23_blisterfluid            ,H/K-ATPase,IgA,Lupus,Blister,8.99304168549435
+23_blisterfluid            ,Histone,IgA,Lupus,Blister,21.3300131326501
+23_blisterfluid            ,Histone H1,IgA,Lupus,Blister,19.9112482396186
+23_blisterfluid            ,Histone H2A,IgA,Lupus,Blister,18.7350890341432
+23_blisterfluid            ,Histone H2B,IgA,Lupus,Blister,20.2127318974153
+23_blisterfluid            ,Histone H3,IgA,Lupus,Blister,18.2114892727708
+23_blisterfluid            ,HSPG,IgA,Lupus,Blister,13.7032244744761
+23_blisterfluid            ,IA-2,IgA,Lupus,Blister,14.407100531271
+23_blisterfluid            ,IF,IgA,Lupus,Blister,13.7653132966466
+23_blisterfluid            ,IFN-gamma,IgA,Lupus,Blister,16.6330845785248
+23_blisterfluid            ,IL-6,IgA,Lupus,Blister,12.508018309951
+23_blisterfluid            ,IL-12/NKSF,IgA,Lupus,Blister,14.4546085517168
+23_blisterfluid            ,IL-17A,IgA,Lupus,Blister,12.1730680780343
+23_blisterfluid            ,Jo-1,IgA,Lupus,Blister,12.1942528386764
+23_blisterfluid            ,KS,IgA,Lupus,Blister,13.3956107799474
+23_blisterfluid            ,KU (P70/P80),IgA,Lupus,Blister,14.633898926455
+23_blisterfluid            ,La/SS-B,IgA,Lupus,Blister,14.7010981388677
+23_blisterfluid            ,Laminin,IgA,Lupus,Blister,15.1883193969388
+23_blisterfluid            ,LC1,IgA,Lupus,Blister,13.7762821954817
+23_blisterfluid            ,LKM 1,IgA,Lupus,Blister,14.9038823987002
+23_blisterfluid            ,LPS,IgA,Lupus,Blister,13.9810399097412
+23_blisterfluid            ,Lysozyme C,IgA,Lupus,Blister,7.90615403202157
+23_blisterfluid            ,M2,IgA,Lupus,Blister,15.1678286282579
+23_blisterfluid            ,MBP,IgA,Lupus,Blister,13.8130517194737
+23_blisterfluid            ,MDA5,IgA,Lupus,Blister,14.0586846521952
+23_blisterfluid            ,Mi-2,IgA,Lupus,Blister,14.8719191910856
+23_blisterfluid            ,Mitochondrion,IgA,Lupus,Blister,14.5524814845335
+23_blisterfluid            ,MPO,IgA,Lupus,Blister,17.3283864129357
+23_blisterfluid            ,Myosin,IgA,Lupus,Blister,10.4071224781763
+23_blisterfluid            ,Nrp1,IgA,Lupus,Blister,14.9762651158115
+23_blisterfluid            ,Nucleolin,IgA,Lupus,Blister,17.0476953415605
+23_blisterfluid            ,Nucleosome,IgA,Lupus,Blister,14.9270243635409
+23_blisterfluid            ,Nup 62,IgA,Lupus,Blister,14.1957348927184
+23_blisterfluid            ,NXP2,IgA,Lupus,Blister,13.9187435355677
+23_blisterfluid            ,OGDC-E2,IgA,Lupus,Blister,16.8754107901493
+23_blisterfluid            ,Ovalbumin,IgA,Lupus,Blister,14.1637386035695
+23_blisterfluid            ,P0,IgA,Lupus,Blister,13.2550439175567
+23_blisterfluid            ,P1,IgA,Lupus,Blister,16.2079345533322
+23_blisterfluid            ,P2,IgA,Lupus,Blister,10.9087085979337
+23_blisterfluid            ,PCNA,IgA,Lupus,Blister,12.1770556258432
+23_blisterfluid            ,PDC-E2,IgA,Lupus,Blister,13.1416790528084
+23_blisterfluid            ,PL-7,IgA,Lupus,Blister,13.979616059334
+23_blisterfluid            ,PL-12,IgA,Lupus,Blister,15.2978258830072
+23_blisterfluid            ,PM/Scl-75,IgA,Lupus,Blister,17.4993109946694
+23_blisterfluid            ,PM/Scl 100,IgA,Lupus,Blister,17.6008899484453
+23_blisterfluid            ,PR3,IgA,Lupus,Blister,10.820397185453
+23_blisterfluid            ,Proteoglycan,IgA,Lupus,Blister,9.49659816309734
+23_blisterfluid            ,Prothrombin,IgA,Lupus,Blister,13.302028819226
+23_blisterfluid            ,Ro/SS-A(52 kDa),IgA,Lupus,Blister,4.82089374922857
+23_blisterfluid            ,Ro/SS-A(60 Kda),IgA,Lupus,Blister,12.3167385956478
+23_blisterfluid            ,SAE1/SAE2,IgA,Lupus,Blister,12.6602693254383
+23_blisterfluid            ,Scl-70,IgA,Lupus,Blister,12.594955936466
+23_blisterfluid            ,SLA/LP,IgA,Lupus,Blister,11.0623167020165
+23_blisterfluid            ,Sm,IgA,Lupus,Blister,18.7057702655953
+23_blisterfluid            ,Sm/RNP,IgA,Lupus,Blister,16.3591514356889
+23_blisterfluid            ,SmD,IgA,Lupus,Blister,18.6372811056888
+23_blisterfluid            ,SmD1,IgA,Lupus,Blister,15.5900955423536
+23_blisterfluid            ,SmD2,IgA,Lupus,Blister,17.6340355172299
+23_blisterfluid            ,SmD3,IgA,Lupus,Blister,12.9484220799676
+23_blisterfluid            ,SP100,IgA,Lupus,Blister,9.28262513419167
+23_blisterfluid            ,SRP54,IgA,Lupus,Blister,14.6186560969187
+23_blisterfluid            ,ssDNA,IgA,Lupus,Blister,19.4853915260708
+23_blisterfluid            ,Tau,IgA,Lupus,Blister,18.7634280944362
+23_blisterfluid            ,Thyroglobulin,IgA,Lupus,Blister,11.7361319292713
+23_blisterfluid            ,TIF1 gamma,IgA,Lupus,Blister,21.0151433443512
+23_blisterfluid            ,TLR4,IgA,Lupus,Blister,17.0900513039176
+23_blisterfluid            ,TNF-alpha,IgA,Lupus,Blister,9.99102574579393
+23_blisterfluid            ,TPO,IgA,Lupus,Blister,15.0903575287773
+23_blisterfluid            ,tTG,IgA,Lupus,Blister,16.3235177143674
+23_blisterfluid            ,U1-snRNP 68/70kDa,IgA,Lupus,Blister,7.66622400280318
+23_blisterfluid            ,U1-snRNP A,IgA,Lupus,Blister,14.0910088000931
+23_blisterfluid            ,U1-snRNP C,IgA,Lupus,Blister,10.2817619924465
+23_blisterfluid            ,U-snRNP B/B,IgA,Lupus,Blister,12.6379499181518
+23_blisterfluid            ,Vimentin,IgA,Lupus,Blister,11.1043984199425
+23_blisterfluid            ,Vitronectin,IgA,Lupus,Blister,15.8761241208033
+23_blisterfluid            ,HIgControl 1,IgA,Lupus,Blister,22.493777775453
+23_blisterfluid            ,HIgControl 2,IgA,Lupus,Blister,22.6302746716361
+23_blisterfluid            ,HIgControl 3,IgA,Lupus,Blister,21.4973965540219
+23_blisterfluid            ,HIgControl 4,IgA,Lupus,Blister,18.0710516857498
+23_blisterfluid            ,MIgControl 1,IgA,Lupus,Blister,18.0765663064791
+23_blisterfluid            ,MIgControl 2,IgA,Lupus,Blister,18.1234899542224
+23_blisterfluid            ,MIgControl 3,IgA,Lupus,Blister,15.8176110234188
+23_blisterfluid            ,MIgControl 4,IgA,Lupus,Blister,14.5715051330101
+24_blisterfluid,ACE2,IgA,Healthy,Blister,15.2463745257012
+24_blisterfluid,Aggrecan,IgA,Healthy,Blister,9.04269905023027
+24_blisterfluid,Alpha Fodrin,IgA,Healthy,Blister,20.6396001470414
+24_blisterfluid,Amyloid Beta(1-40),IgA,Healthy,Blister,12.7305405082469
+24_blisterfluid,Amyloid Beta(1-42),IgA,Healthy,Blister,14.657375983157
+24_blisterfluid,AQP4,IgA,Healthy,Blister,12.7636244472481
+24_blisterfluid,BAFF,IgA,Healthy,Blister,14.4924393381858
+24_blisterfluid,BCOADC-E2,IgA,Healthy,Blister,13.0702752710406
+24_blisterfluid,Beta2-Glycoprotein 1,IgA,Healthy,Blister,13.2217553654613
+24_blisterfluid,BPI,IgA,Healthy,Blister,12.1000441668043
+24_blisterfluid,Calprotectin/S100,IgA,Healthy,Blister,13.8581154884954
+24_blisterfluid,CD4,IgA,Healthy,Blister,11.5967171567567
+24_blisterfluid,CD40,IgA,Healthy,Blister,11.8839231787574
+24_blisterfluid,CENP-A,IgA,Healthy,Blister,14.2214139481976
+24_blisterfluid,CENP-B,IgA,Healthy,Blister,15.8143704030383
+24_blisterfluid,Collagen I,IgA,Healthy,Blister,1.44269431942324e-06
+24_blisterfluid,Collagen II,IgA,Healthy,Blister,15.498369931835
+24_blisterfluid,Collagen III,IgA,Healthy,Blister,13.1424497364688
+24_blisterfluid,Collagen IV,IgA,Healthy,Blister,12.0191516333202
+24_blisterfluid,Collagen V,IgA,Healthy,Blister,16.0285021920641
+24_blisterfluid,Complement C1q,IgA,Healthy,Blister,18.6917143344076
+24_blisterfluid,Complement C3,IgA,Healthy,Blister,11.2946069651152
+24_blisterfluid,Complement C4,IgA,Healthy,Blister,13.7927703950972
+24_blisterfluid,Complement C5,IgA,Healthy,Blister,13.9756324923245
+24_blisterfluid,Complement C6,IgA,Healthy,Blister,14.4212012041056
+24_blisterfluid,Complement C7,IgA,Healthy,Blister,13.529166247337
+24_blisterfluid,Complement C8,IgA,Healthy,Blister,15.9243044977651
+24_blisterfluid,Complement C9,IgA,Healthy,Blister,14.1555036217818
+24_blisterfluid,CRP,IgA,Healthy,Blister,14.9745046097872
+24_blisterfluid,Cytochrome C,IgA,Healthy,Blister,8.17448007551578
+24_blisterfluid,DFS70,IgA,Healthy,Blister,13.5942376989946
+24_blisterfluid,dsDNA,IgA,Healthy,Blister,15.4396644944646
+24_blisterfluid,EJ,IgA,Healthy,Blister,14.003051183101
+24_blisterfluid,FACTOR B,IgA,Healthy,Blister,12.1973088555223
+24_blisterfluid,FACTOR H,IgA,Healthy,Blister,13.2661748099089
+24_blisterfluid,FACTOR I,IgA,Healthy,Blister,9.29841317220051
+24_blisterfluid,FACTOR P,IgA,Healthy,Blister,1.21598915414672
+24_blisterfluid,Fibrinogen Type I-S,IgA,Healthy,Blister,14.2675253740608
+24_blisterfluid,Fibronectin,IgA,Healthy,Blister,12.0457100124375
+24_blisterfluid,GAD65,IgA,Healthy,Blister,15.8838912621312
+24_blisterfluid,GBM,IgA,Healthy,Blister,14.9796088030338
+24_blisterfluid,Genomic DNA,IgA,Healthy,Blister,15.7076839270531
+24_blisterfluid,Gliadin,IgA,Healthy,Blister,15.1089598580812
+24_blisterfluid,gp210,IgA,Healthy,Blister,14.5685042731786
+24_blisterfluid,GP2,IgA,Healthy,Blister,12.499360714249
+24_blisterfluid,H/K-ATPase,IgA,Healthy,Blister,10.5987969248638
+24_blisterfluid,Histone,IgA,Healthy,Blister,18.9638788244069
+24_blisterfluid,Histone H1,IgA,Healthy,Blister,17.9821718456425
+24_blisterfluid,Histone H2A,IgA,Healthy,Blister,18.5671045328055
+24_blisterfluid,Histone H2B,IgA,Healthy,Blister,18.3928523590638
+24_blisterfluid,Histone H3,IgA,Healthy,Blister,16.9780169103049
+24_blisterfluid,HSPG,IgA,Healthy,Blister,13.7692622724006
+24_blisterfluid,IA-2,IgA,Healthy,Blister,14.7746711149004
+24_blisterfluid,IF,IgA,Healthy,Blister,15.2434489263769
+24_blisterfluid,IFN-gamma,IgA,Healthy,Blister,14.4728071461312
+24_blisterfluid,IL-6,IgA,Healthy,Blister,13.4421241036525
+24_blisterfluid,IL-12/NKSF,IgA,Healthy,Blister,14.6719376759297
+24_blisterfluid,IL-17A,IgA,Healthy,Blister,13.3886562294771
+24_blisterfluid,Jo-1,IgA,Healthy,Blister,13.8134902183764
+24_blisterfluid,KS,IgA,Healthy,Blister,14.8306582512983
+24_blisterfluid,KU (P70/P80),IgA,Healthy,Blister,15.6196331960707
+24_blisterfluid,La/SS-B,IgA,Healthy,Blister,14.2000773750599
+24_blisterfluid,Laminin,IgA,Healthy,Blister,14.154256523261
+24_blisterfluid,LC1,IgA,Healthy,Blister,13.0752380812804
+24_blisterfluid,LKM 1,IgA,Healthy,Blister,13.3119066508936
+24_blisterfluid,LPS,IgA,Healthy,Blister,10.6030641314254
+24_blisterfluid,Lysozyme C,IgA,Healthy,Blister,8.0734346635022
+24_blisterfluid,M2,IgA,Healthy,Blister,16.1458423725064
+24_blisterfluid,MBP,IgA,Healthy,Blister,12.9086217298759
+24_blisterfluid,MDA5,IgA,Healthy,Blister,13.1776043403084
+24_blisterfluid,Mi-2,IgA,Healthy,Blister,11.540548238614
+24_blisterfluid,Mitochondrion,IgA,Healthy,Blister,14.2719663076155
+24_blisterfluid,MPO,IgA,Healthy,Blister,17.1537767351966
+24_blisterfluid,Myosin,IgA,Healthy,Blister,8.19059634247564
+24_blisterfluid,Nrp1,IgA,Healthy,Blister,12.6003621038753
+24_blisterfluid,Nucleolin,IgA,Healthy,Blister,17.1760737811556
+24_blisterfluid,Nucleosome,IgA,Healthy,Blister,14.8668375806143
+24_blisterfluid,Nup 62,IgA,Healthy,Blister,15.4336891343899
+24_blisterfluid,NXP2,IgA,Healthy,Blister,14.1869291049803
+24_blisterfluid,OGDC-E2,IgA,Healthy,Blister,15.7141530786357
+24_blisterfluid,Ovalbumin,IgA,Healthy,Blister,13.4269447894687
+24_blisterfluid,P0,IgA,Healthy,Blister,13.3171911329005
+24_blisterfluid,P1,IgA,Healthy,Blister,15.3330947561959
+24_blisterfluid,P2,IgA,Healthy,Blister,10.1971527903813
+24_blisterfluid,PCNA,IgA,Healthy,Blister,12.1122367560879
+24_blisterfluid,PDC-E2,IgA,Healthy,Blister,14.0704515940949
+24_blisterfluid,PL-7,IgA,Healthy,Blister,14.7246208575604
+24_blisterfluid,PL-12,IgA,Healthy,Blister,13.8679975429013
+24_blisterfluid,PM/Scl-75,IgA,Healthy,Blister,13.0257186181943
+24_blisterfluid,PM/Scl 100,IgA,Healthy,Blister,13.6779898188978
+24_blisterfluid,PR3,IgA,Healthy,Blister,9.54211292158765
+24_blisterfluid,Proteoglycan,IgA,Healthy,Blister,8.13442632022093
+24_blisterfluid,Prothrombin,IgA,Healthy,Blister,13.7064586767278
+24_blisterfluid,Ro/SS-A(52 kDa),IgA,Healthy,Blister,3.81864608282254
+24_blisterfluid,Ro/SS-A(60 Kda),IgA,Healthy,Blister,10.4418216545922
+24_blisterfluid,SAE1/SAE2,IgA,Healthy,Blister,11.5593513961765
+24_blisterfluid,Scl-70,IgA,Healthy,Blister,13.8763327609732
+24_blisterfluid,SLA/LP,IgA,Healthy,Blister,11.7762710902967
+24_blisterfluid,Sm,IgA,Healthy,Blister,15.2552198883643
+24_blisterfluid,Sm/RNP,IgA,Healthy,Blister,14.4220456742594
+24_blisterfluid,SmD,IgA,Healthy,Blister,14.8349205382676
+24_blisterfluid,SmD1,IgA,Healthy,Blister,14.3651200824616
+24_blisterfluid,SmD2,IgA,Healthy,Blister,14.1761538605698
+24_blisterfluid,SmD3,IgA,Healthy,Blister,7.35070497314258
+24_blisterfluid,SP100,IgA,Healthy,Blister,10.0218135174549
+24_blisterfluid,SRP54,IgA,Healthy,Blister,13.7476576111082
+24_blisterfluid,ssDNA,IgA,Healthy,Blister,20.0797871669374
+24_blisterfluid,Tau,IgA,Healthy,Blister,17.8555939727228
+24_blisterfluid,Thyroglobulin,IgA,Healthy,Blister,13.5029793844197
+24_blisterfluid,TIF1 gamma,IgA,Healthy,Blister,17.8535208326129
+24_blisterfluid,TLR4,IgA,Healthy,Blister,16.6788820014058
+24_blisterfluid,TNF-alpha,IgA,Healthy,Blister,7.99746178111285
+24_blisterfluid,TPO,IgA,Healthy,Blister,16.8433436713316
+24_blisterfluid,tTG,IgA,Healthy,Blister,16.0833270042272
+24_blisterfluid,U1-snRNP 68/70kDa,IgA,Healthy,Blister,8.17426408759781
+24_blisterfluid,U1-snRNP A,IgA,Healthy,Blister,16.0420346406339
+24_blisterfluid,U1-snRNP C,IgA,Healthy,Blister,11.3778324907432
+24_blisterfluid,U-snRNP B/B,IgA,Healthy,Blister,12.7519427012346
+24_blisterfluid,Vimentin,IgA,Healthy,Blister,10.9312117524898
+24_blisterfluid,Vitronectin,IgA,Healthy,Blister,15.8412020376335
+24_blisterfluid,HIgControl 1,IgA,Healthy,Blister,22.0685009658527
+24_blisterfluid,HIgControl 2,IgA,Healthy,Blister,22.19915241448
+24_blisterfluid,HIgControl 3,IgA,Healthy,Blister,21.1132754938247
+24_blisterfluid,HIgControl 4,IgA,Healthy,Blister,19.2045119873101
+24_blisterfluid,MIgControl 1,IgA,Healthy,Blister,18.5442775742489
+24_blisterfluid,MIgControl 2,IgA,Healthy,Blister,15.9166550295775
+24_blisterfluid,MIgControl 3,IgA,Healthy,Blister,15.3583157085076
+24_blisterfluid,MIgControl 4,IgA,Healthy,Blister,13.348815277547
+26_blisterfluid,ACE2,IgA,Lupus,Blister,17.3968014008695
+26_blisterfluid,Aggrecan,IgA,Lupus,Blister,9.97441243866818
+26_blisterfluid,Alpha Fodrin,IgA,Lupus,Blister,22.3772557673668
+26_blisterfluid,Amyloid Beta(1-40),IgA,Lupus,Blister,14.5046200044955
+26_blisterfluid,Amyloid Beta(1-42),IgA,Lupus,Blister,15.7075528302236
+26_blisterfluid,AQP4,IgA,Lupus,Blister,13.340713684589
+26_blisterfluid,BAFF,IgA,Lupus,Blister,15.2076756517293
+26_blisterfluid,BCOADC-E2,IgA,Lupus,Blister,15.2623955896506
+26_blisterfluid,Beta2-Glycoprotein 1,IgA,Lupus,Blister,13.7706823703608
+26_blisterfluid,BPI,IgA,Lupus,Blister,13.7456756368792
+26_blisterfluid,Calprotectin/S100,IgA,Lupus,Blister,15.0579789291034
+26_blisterfluid,CD4,IgA,Lupus,Blister,12.4364364566312
+26_blisterfluid,CD40,IgA,Lupus,Blister,13.6959845183731
+26_blisterfluid,CENP-A,IgA,Lupus,Blister,16.3698318639848
+26_blisterfluid,CENP-B,IgA,Lupus,Blister,16.1895771486243
+26_blisterfluid,Collagen I,IgA,Lupus,Blister,1.44269431942324e-06
+26_blisterfluid,Collagen II,IgA,Lupus,Blister,16.0295664902096
+26_blisterfluid,Collagen III,IgA,Lupus,Blister,12.9048497963425
+26_blisterfluid,Collagen IV,IgA,Lupus,Blister,10.2453990997804
+26_blisterfluid,Collagen V,IgA,Lupus,Blister,15.5045622670971
+26_blisterfluid,Complement C1q,IgA,Lupus,Blister,18.6618750742877
+26_blisterfluid,Complement C3,IgA,Lupus,Blister,11.5428476037993
+26_blisterfluid,Complement C4,IgA,Lupus,Blister,13.4804696857839
+26_blisterfluid,Complement C5,IgA,Lupus,Blister,14.6691599219616
+26_blisterfluid,Complement C6,IgA,Lupus,Blister,16.4644094143797
+26_blisterfluid,Complement C7,IgA,Lupus,Blister,13.8265713271335
+26_blisterfluid,Complement C8,IgA,Lupus,Blister,14.6475207531996
+26_blisterfluid,Complement C9,IgA,Lupus,Blister,15.5267435596373
+26_blisterfluid,CRP,IgA,Lupus,Blister,14.9787140336684
+26_blisterfluid,Cytochrome C,IgA,Lupus,Blister,13.2399676580176
+26_blisterfluid,DFS70,IgA,Lupus,Blister,14.0959488074553
+26_blisterfluid,dsDNA,IgA,Lupus,Blister,15.7645216273785
+26_blisterfluid,EJ,IgA,Lupus,Blister,14.1136518320222
+26_blisterfluid,FACTOR B,IgA,Lupus,Blister,13.4147603742172
+26_blisterfluid,FACTOR H,IgA,Lupus,Blister,13.6459183608897
+26_blisterfluid,FACTOR I,IgA,Lupus,Blister,8.87496137410174
+26_blisterfluid,FACTOR P,IgA,Lupus,Blister,0.892391025913404
+26_blisterfluid,Fibrinogen Type I-S,IgA,Lupus,Blister,14.6183553884386
+26_blisterfluid,Fibronectin,IgA,Lupus,Blister,11.1912612887562
+26_blisterfluid,GAD65,IgA,Lupus,Blister,16.3546741925335
+26_blisterfluid,GBM,IgA,Lupus,Blister,15.5484239808289
+26_blisterfluid,Genomic DNA,IgA,Lupus,Blister,17.0458513091034
+26_blisterfluid,Gliadin,IgA,Lupus,Blister,12.5597734425919
+26_blisterfluid,gp210,IgA,Lupus,Blister,15.3696332632676
+26_blisterfluid,GP2,IgA,Lupus,Blister,11.907963576642
+26_blisterfluid,H/K-ATPase,IgA,Lupus,Blister,9.77988593659142
+26_blisterfluid,Histone,IgA,Lupus,Blister,18.7082984543746
+26_blisterfluid,Histone H1,IgA,Lupus,Blister,18.35854605563
+26_blisterfluid,Histone H2A,IgA,Lupus,Blister,18.275852023381
+26_blisterfluid,Histone H2B,IgA,Lupus,Blister,18.7813143660276
+26_blisterfluid,Histone H3,IgA,Lupus,Blister,15.6589967555164
+26_blisterfluid,HSPG,IgA,Lupus,Blister,13.786876656212
+26_blisterfluid,IA-2,IgA,Lupus,Blister,15.1143719055969
+26_blisterfluid,IF,IgA,Lupus,Blister,14.0819195053199
+26_blisterfluid,IFN-gamma,IgA,Lupus,Blister,16.8682614093069
+26_blisterfluid,IL-6,IgA,Lupus,Blister,15.7982094736667
+26_blisterfluid,IL-12/NKSF,IgA,Lupus,Blister,16.2798716596233
+26_blisterfluid,IL-17A,IgA,Lupus,Blister,14.2816257216445
+26_blisterfluid,Jo-1,IgA,Lupus,Blister,12.7244646646513
+26_blisterfluid,KS,IgA,Lupus,Blister,15.1972096366827
+26_blisterfluid,KU (P70/P80),IgA,Lupus,Blister,15.8301942216359
+26_blisterfluid,La/SS-B,IgA,Lupus,Blister,15.110840309827
+26_blisterfluid,Laminin,IgA,Lupus,Blister,15.2128239068162
+26_blisterfluid,LC1,IgA,Lupus,Blister,14.203951122114
+26_blisterfluid,LKM 1,IgA,Lupus,Blister,13.8235154231723
+26_blisterfluid,LPS,IgA,Lupus,Blister,15.1094257574906
+26_blisterfluid,Lysozyme C,IgA,Lupus,Blister,9.03139933193069
+26_blisterfluid,M2,IgA,Lupus,Blister,17.8665399736818
+26_blisterfluid,MBP,IgA,Lupus,Blister,13.9796319560855
+26_blisterfluid,MDA5,IgA,Lupus,Blister,15.2299353982041
+26_blisterfluid,Mi-2,IgA,Lupus,Blister,12.6294664802207
+26_blisterfluid,Mitochondrion,IgA,Lupus,Blister,16.6991716075651
+26_blisterfluid,MPO,IgA,Lupus,Blister,17.3995812409031
+26_blisterfluid,Myosin,IgA,Lupus,Blister,11.1695586456426
+26_blisterfluid,Nrp1,IgA,Lupus,Blister,14.2409561595966
+26_blisterfluid,Nucleolin,IgA,Lupus,Blister,16.9288878005406
+26_blisterfluid,Nucleosome,IgA,Lupus,Blister,14.7047240458853
+26_blisterfluid,Nup 62,IgA,Lupus,Blister,17.3763765448672
+26_blisterfluid,NXP2,IgA,Lupus,Blister,14.5076790608086
+26_blisterfluid,OGDC-E2,IgA,Lupus,Blister,19.1094059471239
+26_blisterfluid,Ovalbumin,IgA,Lupus,Blister,14.0390382946904
+26_blisterfluid,P0,IgA,Lupus,Blister,15.3020519688484
+26_blisterfluid,P1,IgA,Lupus,Blister,15.0310036769855
+26_blisterfluid,P2,IgA,Lupus,Blister,9.30807731881676
+26_blisterfluid,PCNA,IgA,Lupus,Blister,12.6326699181431
+26_blisterfluid,PDC-E2,IgA,Lupus,Blister,15.4864182543657
+26_blisterfluid,PL-7,IgA,Lupus,Blister,14.6370233851968
+26_blisterfluid,PL-12,IgA,Lupus,Blister,15.3747219736379
+26_blisterfluid,PM/Scl-75,IgA,Lupus,Blister,14.5735260111675
+26_blisterfluid,PM/Scl 100,IgA,Lupus,Blister,16.3965813024133
+26_blisterfluid,PR3,IgA,Lupus,Blister,9.4280785160642
+26_blisterfluid,Proteoglycan,IgA,Lupus,Blister,9.28619213242965
+26_blisterfluid,Prothrombin,IgA,Lupus,Blister,13.2924039612854
+26_blisterfluid,Ro/SS-A(52 kDa),IgA,Lupus,Blister,4.02347715183043
+26_blisterfluid,Ro/SS-A(60 Kda),IgA,Lupus,Blister,11.7538950993502
+26_blisterfluid,SAE1/SAE2,IgA,Lupus,Blister,12.1284036066819
+26_blisterfluid,Scl-70,IgA,Lupus,Blister,14.0086756011751
+26_blisterfluid,SLA/LP,IgA,Lupus,Blister,11.5619739215139
+26_blisterfluid,Sm,IgA,Lupus,Blister,14.971004261163
+26_blisterfluid,Sm/RNP,IgA,Lupus,Blister,13.8525431638356
+26_blisterfluid,SmD,IgA,Lupus,Blister,14.6816884149956
+26_blisterfluid,SmD1,IgA,Lupus,Blister,13.7595754978132
+26_blisterfluid,SmD2,IgA,Lupus,Blister,14.0444045151615
+26_blisterfluid,SmD3,IgA,Lupus,Blister,6.70839418775667
+26_blisterfluid,SP100,IgA,Lupus,Blister,10.9330174614997
+26_blisterfluid,SRP54,IgA,Lupus,Blister,14.6295785517131
+26_blisterfluid,ssDNA,IgA,Lupus,Blister,19.2884183434623
+26_blisterfluid,Tau,IgA,Lupus,Blister,17.9609831971231
+26_blisterfluid,Thyroglobulin,IgA,Lupus,Blister,10.9755219995836
+26_blisterfluid,TIF1 gamma,IgA,Lupus,Blister,18.5161119572395
+26_blisterfluid,TLR4,IgA,Lupus,Blister,17.3033364182869
+26_blisterfluid,TNF-alpha,IgA,Lupus,Blister,8.39790133963351
+26_blisterfluid,TPO,IgA,Lupus,Blister,16.061042464454
+26_blisterfluid,tTG,IgA,Lupus,Blister,16.4406054819146
+26_blisterfluid,U1-snRNP 68/70kDa,IgA,Lupus,Blister,8.03507124728914
+26_blisterfluid,U1-snRNP A,IgA,Lupus,Blister,15.5406034034846
+26_blisterfluid,U1-snRNP C,IgA,Lupus,Blister,11.1250220686056
+26_blisterfluid,U-snRNP B/B,IgA,Lupus,Blister,12.9957918785437
+26_blisterfluid,Vimentin,IgA,Lupus,Blister,10.7138785713278
+26_blisterfluid,Vitronectin,IgA,Lupus,Blister,15.9906417378661
+26_blisterfluid,HIgControl 1,IgA,Lupus,Blister,22.1858389544945
+26_blisterfluid,HIgControl 2,IgA,Lupus,Blister,21.7950667922771
+26_blisterfluid,HIgControl 3,IgA,Lupus,Blister,19.7948759341237
+26_blisterfluid,HIgControl 4,IgA,Lupus,Blister,18.4880801359773
+26_blisterfluid,MIgControl 1,IgA,Lupus,Blister,18.0699288362131
+26_blisterfluid,MIgControl 2,IgA,Lupus,Blister,16.2837347560696
+26_blisterfluid,MIgControl 3,IgA,Lupus,Blister,14.8250205001144
+26_blisterfluid,MIgControl 4,IgA,Lupus,Blister,13.9689196386186
+27_blisterfluid,ACE2,IgA,Lupus,Blister,16.1228658003623
+27_blisterfluid,Aggrecan,IgA,Lupus,Blister,10.8518856537963
+27_blisterfluid,Alpha Fodrin,IgA,Lupus,Blister,23.97817775001
+27_blisterfluid,Amyloid Beta(1-40),IgA,Lupus,Blister,15.2245152733497
+27_blisterfluid,Amyloid Beta(1-42),IgA,Lupus,Blister,18.1013174871065
+27_blisterfluid,AQP4,IgA,Lupus,Blister,14.2760219259296
+27_blisterfluid,BAFF,IgA,Lupus,Blister,15.0827863494329
+27_blisterfluid,BCOADC-E2,IgA,Lupus,Blister,16.0736507015437
+27_blisterfluid,Beta2-Glycoprotein 1,IgA,Lupus,Blister,14.7330037194722
+27_blisterfluid,BPI,IgA,Lupus,Blister,12.9553849623318
+27_blisterfluid,Calprotectin/S100,IgA,Lupus,Blister,18.1833172952635
+27_blisterfluid,CD4,IgA,Lupus,Blister,11.9380545439454
+27_blisterfluid,CD40,IgA,Lupus,Blister,13.5297293358029
+27_blisterfluid,CENP-A,IgA,Lupus,Blister,16.7850456981519
+27_blisterfluid,CENP-B,IgA,Lupus,Blister,18.2409477095748
+27_blisterfluid,Collagen I,IgA,Lupus,Blister,1.44269431942324e-06
+27_blisterfluid,Collagen II,IgA,Lupus,Blister,17.0436872665518
+27_blisterfluid,Collagen III,IgA,Lupus,Blister,14.6889369013574
+27_blisterfluid,Collagen IV,IgA,Lupus,Blister,9.96357816073136
+27_blisterfluid,Collagen V,IgA,Lupus,Blister,16.3029866157978
+27_blisterfluid,Complement C1q,IgA,Lupus,Blister,19.1074315417975
+27_blisterfluid,Complement C3,IgA,Lupus,Blister,11.3270918343265
+27_blisterfluid,Complement C4,IgA,Lupus,Blister,14.5884299035647
+27_blisterfluid,Complement C5,IgA,Lupus,Blister,15.7965273576635
+27_blisterfluid,Complement C6,IgA,Lupus,Blister,15.4685324636838
+27_blisterfluid,Complement C7,IgA,Lupus,Blister,14.8752681488894
+27_blisterfluid,Complement C8,IgA,Lupus,Blister,15.9224709095845
+27_blisterfluid,Complement C9,IgA,Lupus,Blister,15.0866442558802
+27_blisterfluid,CRP,IgA,Lupus,Blister,15.8201224813547
+27_blisterfluid,Cytochrome C,IgA,Lupus,Blister,9.34706544189347
+27_blisterfluid,DFS70,IgA,Lupus,Blister,13.896083615019
+27_blisterfluid,dsDNA,IgA,Lupus,Blister,16.0805866606545
+27_blisterfluid,EJ,IgA,Lupus,Blister,16.1230919660581
+27_blisterfluid,FACTOR B,IgA,Lupus,Blister,14.0978593046184
+27_blisterfluid,FACTOR H,IgA,Lupus,Blister,14.0956373832582
+27_blisterfluid,FACTOR I,IgA,Lupus,Blister,9.73362634569646
+27_blisterfluid,FACTOR P,IgA,Lupus,Blister,1.97085365434048
+27_blisterfluid,Fibrinogen Type I-S,IgA,Lupus,Blister,14.7399275742083
+27_blisterfluid,Fibronectin,IgA,Lupus,Blister,11.1907375341933
+27_blisterfluid,GAD65,IgA,Lupus,Blister,18.0608360743287
+27_blisterfluid,GBM,IgA,Lupus,Blister,15.9590300930579
+27_blisterfluid,Genomic DNA,IgA,Lupus,Blister,16.7756247697469
+27_blisterfluid,Gliadin,IgA,Lupus,Blister,12.0848699932869
+27_blisterfluid,gp210,IgA,Lupus,Blister,15.7315258732062
+27_blisterfluid,GP2,IgA,Lupus,Blister,12.9231793638487
+27_blisterfluid,H/K-ATPase,IgA,Lupus,Blister,10.2137877274255
+27_blisterfluid,Histone,IgA,Lupus,Blister,19.436192152686
+27_blisterfluid,Histone H1,IgA,Lupus,Blister,19.2256107068522
+27_blisterfluid,Histone H2A,IgA,Lupus,Blister,17.8551867736862
+27_blisterfluid,Histone H2B,IgA,Lupus,Blister,19.1859216887746
+27_blisterfluid,Histone H3,IgA,Lupus,Blister,17.0811483596624
+27_blisterfluid,HSPG,IgA,Lupus,Blister,14.2671501693607
+27_blisterfluid,IA-2,IgA,Lupus,Blister,15.9858450771114
+27_blisterfluid,IF,IgA,Lupus,Blister,14.9091741112756
+27_blisterfluid,IFN-gamma,IgA,Lupus,Blister,18.6741758650115
+27_blisterfluid,IL-6,IgA,Lupus,Blister,15.1696742378119
+27_blisterfluid,IL-12/NKSF,IgA,Lupus,Blister,18.6415488690034
+27_blisterfluid,IL-17A,IgA,Lupus,Blister,14.3020623159756
+27_blisterfluid,Jo-1,IgA,Lupus,Blister,15.5624953149878
+27_blisterfluid,KS,IgA,Lupus,Blister,15.9332880100536
+27_blisterfluid,KU (P70/P80),IgA,Lupus,Blister,15.7725150159356
+27_blisterfluid,La/SS-B,IgA,Lupus,Blister,17.4731371705994
+27_blisterfluid,Laminin,IgA,Lupus,Blister,13.1979400098024
+27_blisterfluid,LC1,IgA,Lupus,Blister,15.5683564393079
+27_blisterfluid,LKM 1,IgA,Lupus,Blister,13.4257659898415
+27_blisterfluid,LPS,IgA,Lupus,Blister,8.53767269056608
+27_blisterfluid,Lysozyme C,IgA,Lupus,Blister,8.36557881621184
+27_blisterfluid,M2,IgA,Lupus,Blister,15.28060749368
+27_blisterfluid,MBP,IgA,Lupus,Blister,14.1012980178339
+27_blisterfluid,MDA5,IgA,Lupus,Blister,16.1297300714309
+27_blisterfluid,Mi-2,IgA,Lupus,Blister,14.8904252695362
+27_blisterfluid,Mitochondrion,IgA,Lupus,Blister,14.2377801615748
+27_blisterfluid,MPO,IgA,Lupus,Blister,17.1990379305805
+27_blisterfluid,Myosin,IgA,Lupus,Blister,9.67928831388105
+27_blisterfluid,Nrp1,IgA,Lupus,Blister,11.001781135635
+27_blisterfluid,Nucleolin,IgA,Lupus,Blister,17.6928650028889
+27_blisterfluid,Nucleosome,IgA,Lupus,Blister,15.43252302818
+27_blisterfluid,Nup 62,IgA,Lupus,Blister,14.1745088077431
+27_blisterfluid,NXP2,IgA,Lupus,Blister,14.6620487725073
+27_blisterfluid,OGDC-E2,IgA,Lupus,Blister,16.2821375080841
+27_blisterfluid,Ovalbumin,IgA,Lupus,Blister,15.5841529884196
+27_blisterfluid,P0,IgA,Lupus,Blister,14.9765012278793
+27_blisterfluid,P1,IgA,Lupus,Blister,15.6447374861094
+27_blisterfluid,P2,IgA,Lupus,Blister,10.7303440338429
+27_blisterfluid,PCNA,IgA,Lupus,Blister,15.1530076132386
+27_blisterfluid,PDC-E2,IgA,Lupus,Blister,15.8176555315367
+27_blisterfluid,PL-7,IgA,Lupus,Blister,17.6985559652731
+27_blisterfluid,PL-12,IgA,Lupus,Blister,16.7805250041726
+27_blisterfluid,PM/Scl-75,IgA,Lupus,Blister,15.6673579731117
+27_blisterfluid,PM/Scl 100,IgA,Lupus,Blister,15.5403778725456
+27_blisterfluid,PR3,IgA,Lupus,Blister,10.1385098828133
+27_blisterfluid,Proteoglycan,IgA,Lupus,Blister,9.24081517816391
+27_blisterfluid,Prothrombin,IgA,Lupus,Blister,14.1830828680048
+27_blisterfluid,Ro/SS-A(52 kDa),IgA,Lupus,Blister,4.80982599609745
+27_blisterfluid,Ro/SS-A(60 Kda),IgA,Lupus,Blister,20.0856264917356
+27_blisterfluid,SAE1/SAE2,IgA,Lupus,Blister,12.5449175371958
+27_blisterfluid,Scl-70,IgA,Lupus,Blister,14.1416003493682
+27_blisterfluid,SLA/LP,IgA,Lupus,Blister,11.4098725938768
+27_blisterfluid,Sm,IgA,Lupus,Blister,16.217517633751
+27_blisterfluid,Sm/RNP,IgA,Lupus,Blister,15.1446211932434
+27_blisterfluid,SmD,IgA,Lupus,Blister,16.0506949328056
+27_blisterfluid,SmD1,IgA,Lupus,Blister,14.4607537925729
+27_blisterfluid,SmD2,IgA,Lupus,Blister,14.2823039783455
+27_blisterfluid,SmD3,IgA,Lupus,Blister,7.74334665817281
+27_blisterfluid,SP100,IgA,Lupus,Blister,10.9542821132863
+27_blisterfluid,SRP54,IgA,Lupus,Blister,14.354933903828
+27_blisterfluid,ssDNA,IgA,Lupus,Blister,19.960718746113
+27_blisterfluid,Tau,IgA,Lupus,Blister,18.3716614570006
+27_blisterfluid,Thyroglobulin,IgA,Lupus,Blister,11.107425355375
+27_blisterfluid,TIF1 gamma,IgA,Lupus,Blister,19.3786016832589
+27_blisterfluid,TLR4,IgA,Lupus,Blister,16.6202367355713
+27_blisterfluid,TNF-alpha,IgA,Lupus,Blister,9.26410710530032
+27_blisterfluid,TPO,IgA,Lupus,Blister,15.1300501504027
+27_blisterfluid,tTG,IgA,Lupus,Blister,16.7573818181318
+27_blisterfluid,U1-snRNP 68/70kDa,IgA,Lupus,Blister,9.13801575348757
+27_blisterfluid,U1-snRNP A,IgA,Lupus,Blister,14.6843133797523
+27_blisterfluid,U1-snRNP C,IgA,Lupus,Blister,12.0387232110688
+27_blisterfluid,U-snRNP B/B,IgA,Lupus,Blister,13.1732102146305
+27_blisterfluid,Vimentin,IgA,Lupus,Blister,9.64246421944604
+27_blisterfluid,Vitronectin,IgA,Lupus,Blister,18.9262142432886
+27_blisterfluid,HIgControl 1,IgA,Lupus,Blister,22.4238495261979
+27_blisterfluid,HIgControl 2,IgA,Lupus,Blister,21.7098018582878
+27_blisterfluid,HIgControl 3,IgA,Lupus,Blister,18.820169611399
+27_blisterfluid,HIgControl 4,IgA,Lupus,Blister,17.7884532012013
+27_blisterfluid,MIgControl 1,IgA,Lupus,Blister,17.4422792150517
+27_blisterfluid,MIgControl 2,IgA,Lupus,Blister,15.2667033044801
+27_blisterfluid,MIgControl 3,IgA,Lupus,Blister,14.3840822788628
+27_blisterfluid,MIgControl 4,IgA,Lupus,Blister,13.8217931613179
+28_blisterfluid,ACE2,IgA,Lupus,Blister,15.4410970033215
+28_blisterfluid,Aggrecan,IgA,Lupus,Blister,10.3771468009106
+28_blisterfluid,Alpha Fodrin,IgA,Lupus,Blister,23.2782763167241
+28_blisterfluid,Amyloid Beta(1-40),IgA,Lupus,Blister,15.4389377598882
+28_blisterfluid,Amyloid Beta(1-42),IgA,Lupus,Blister,17.3419323682538
+28_blisterfluid,AQP4,IgA,Lupus,Blister,12.6675330429074
+28_blisterfluid,BAFF,IgA,Lupus,Blister,13.8476960446619
+28_blisterfluid,BCOADC-E2,IgA,Lupus,Blister,15.4062897808635
+28_blisterfluid,Beta2-Glycoprotein 1,IgA,Lupus,Blister,13.4604506167426
+28_blisterfluid,BPI,IgA,Lupus,Blister,12.9993068397354
+28_blisterfluid,Calprotectin/S100,IgA,Lupus,Blister,18.0438902173435
+28_blisterfluid,CD4,IgA,Lupus,Blister,12.3259937476477
+28_blisterfluid,CD40,IgA,Lupus,Blister,12.7153115265503
+28_blisterfluid,CENP-A,IgA,Lupus,Blister,16.9560061985579
+28_blisterfluid,CENP-B,IgA,Lupus,Blister,16.944140841158
+28_blisterfluid,Collagen I,IgA,Lupus,Blister,1.44269431942324e-06
+28_blisterfluid,Collagen II,IgA,Lupus,Blister,16.5254946805037
+28_blisterfluid,Collagen III,IgA,Lupus,Blister,13.2631362159707
+28_blisterfluid,Collagen IV,IgA,Lupus,Blister,8.30482130469653
+28_blisterfluid,Collagen V,IgA,Lupus,Blister,15.4653666127216
+28_blisterfluid,Complement C1q,IgA,Lupus,Blister,18.0562864930128
+28_blisterfluid,Complement C3,IgA,Lupus,Blister,11.1756976796817
+28_blisterfluid,Complement C4,IgA,Lupus,Blister,13.6196275940588
+28_blisterfluid,Complement C5,IgA,Lupus,Blister,13.875783086211
+28_blisterfluid,Complement C6,IgA,Lupus,Blister,14.4520281124498
+28_blisterfluid,Complement C7,IgA,Lupus,Blister,13.5720310605713
+28_blisterfluid,Complement C8,IgA,Lupus,Blister,15.5921748537028
+28_blisterfluid,Complement C9,IgA,Lupus,Blister,13.67410121391
+28_blisterfluid,CRP,IgA,Lupus,Blister,15.1444401334226
+28_blisterfluid,Cytochrome C,IgA,Lupus,Blister,8.55982159009804
+28_blisterfluid,DFS70,IgA,Lupus,Blister,14.2331828104338
+28_blisterfluid,dsDNA,IgA,Lupus,Blister,14.4262287130876
+28_blisterfluid,EJ,IgA,Lupus,Blister,14.608000612382
+28_blisterfluid,FACTOR B,IgA,Lupus,Blister,13.6603473282078
+28_blisterfluid,FACTOR H,IgA,Lupus,Blister,14.2652179870205
+28_blisterfluid,FACTOR I,IgA,Lupus,Blister,8.7241932185946
+28_blisterfluid,FACTOR P,IgA,Lupus,Blister,1.79170990169423
+28_blisterfluid,Fibrinogen Type I-S,IgA,Lupus,Blister,15.4432318181935
+28_blisterfluid,Fibronectin,IgA,Lupus,Blister,11.9622232895352
+28_blisterfluid,GAD65,IgA,Lupus,Blister,17.0008972612301
+28_blisterfluid,GBM,IgA,Lupus,Blister,15.842470661206
+28_blisterfluid,Genomic DNA,IgA,Lupus,Blister,16.7269232596267
+28_blisterfluid,Gliadin,IgA,Lupus,Blister,12.4239641503526
+28_blisterfluid,gp210,IgA,Lupus,Blister,15.230269775692
+28_blisterfluid,GP2,IgA,Lupus,Blister,11.9094956130287
+28_blisterfluid,H/K-ATPase,IgA,Lupus,Blister,10.6263706873711
+28_blisterfluid,Histone,IgA,Lupus,Blister,20.0181749603545
+28_blisterfluid,Histone H1,IgA,Lupus,Blister,18.8790943730221
+28_blisterfluid,Histone H2A,IgA,Lupus,Blister,18.396015758783
+28_blisterfluid,Histone H2B,IgA,Lupus,Blister,18.8972555751122
+28_blisterfluid,Histone H3,IgA,Lupus,Blister,17.7696080210367
+28_blisterfluid,HSPG,IgA,Lupus,Blister,13.3487682592681
+28_blisterfluid,IA-2,IgA,Lupus,Blister,14.4462206842667
+28_blisterfluid,IF,IgA,Lupus,Blister,13.6263508935022
+28_blisterfluid,IFN-gamma,IgA,Lupus,Blister,18.1743679731514
+28_blisterfluid,IL-6,IgA,Lupus,Blister,13.7608036171941
+28_blisterfluid,IL-12/NKSF,IgA,Lupus,Blister,18.669400468504
+28_blisterfluid,IL-17A,IgA,Lupus,Blister,14.8796782727242
+28_blisterfluid,Jo-1,IgA,Lupus,Blister,15.3465574489609
+28_blisterfluid,KS,IgA,Lupus,Blister,14.9143862417407
+28_blisterfluid,KU (P70/P80),IgA,Lupus,Blister,16.21469538076
+28_blisterfluid,La/SS-B,IgA,Lupus,Blister,15.5048415916225
+28_blisterfluid,Laminin,IgA,Lupus,Blister,13.7822175955518
+28_blisterfluid,LC1,IgA,Lupus,Blister,14.787615884012
+28_blisterfluid,LKM 1,IgA,Lupus,Blister,12.5450667890473
+28_blisterfluid,LPS,IgA,Lupus,Blister,7.35438163211332
+28_blisterfluid,Lysozyme C,IgA,Lupus,Blister,7.64519006586492
+28_blisterfluid,M2,IgA,Lupus,Blister,14.5917623861932
+28_blisterfluid,MBP,IgA,Lupus,Blister,12.766270078149
+28_blisterfluid,MDA5,IgA,Lupus,Blister,15.0083032781169
+28_blisterfluid,Mi-2,IgA,Lupus,Blister,13.1687341222909
+28_blisterfluid,Mitochondrion,IgA,Lupus,Blister,13.7077175772047
+28_blisterfluid,MPO,IgA,Lupus,Blister,17.3560655968449
+28_blisterfluid,Myosin,IgA,Lupus,Blister,8.34985620155665
+28_blisterfluid,Nrp1,IgA,Lupus,Blister,10.1328091207995
+28_blisterfluid,Nucleolin,IgA,Lupus,Blister,17.2455896732642
+28_blisterfluid,Nucleosome,IgA,Lupus,Blister,15.7578962064455
+28_blisterfluid,Nup 62,IgA,Lupus,Blister,13.2105165653507
+28_blisterfluid,NXP2,IgA,Lupus,Blister,13.8362476466879
+28_blisterfluid,OGDC-E2,IgA,Lupus,Blister,15.2854816920611
+28_blisterfluid,Ovalbumin,IgA,Lupus,Blister,15.0242417522083
+28_blisterfluid,P0,IgA,Lupus,Blister,13.8891845121704
+28_blisterfluid,P1,IgA,Lupus,Blister,15.4164289244436
+28_blisterfluid,P2,IgA,Lupus,Blister,10.0256192270907
+28_blisterfluid,PCNA,IgA,Lupus,Blister,14.1730805741207
+28_blisterfluid,PDC-E2,IgA,Lupus,Blister,15.5069380257312
+28_blisterfluid,PL-7,IgA,Lupus,Blister,15.3128444984992
+28_blisterfluid,PL-12,IgA,Lupus,Blister,15.7993462863277
+28_blisterfluid,PM/Scl-75,IgA,Lupus,Blister,14.4829163312143
+28_blisterfluid,PM/Scl 100,IgA,Lupus,Blister,14.3237776512554
+28_blisterfluid,PR3,IgA,Lupus,Blister,8.92816302435623
+28_blisterfluid,Proteoglycan,IgA,Lupus,Blister,8.16035551679442
+28_blisterfluid,Prothrombin,IgA,Lupus,Blister,12.916658388082
+28_blisterfluid,Ro/SS-A(52 kDa),IgA,Lupus,Blister,4.84774641692139
+28_blisterfluid,Ro/SS-A(60 Kda),IgA,Lupus,Blister,19.5196604291688
+28_blisterfluid,SAE1/SAE2,IgA,Lupus,Blister,13.1026465683171
+28_blisterfluid,Scl-70,IgA,Lupus,Blister,14.5284015471621
+28_blisterfluid,SLA/LP,IgA,Lupus,Blister,11.2311185560745
+28_blisterfluid,Sm,IgA,Lupus,Blister,14.8622877308963
+28_blisterfluid,Sm/RNP,IgA,Lupus,Blister,14.2475229593255
+28_blisterfluid,SmD,IgA,Lupus,Blister,14.6302828404185
+28_blisterfluid,SmD1,IgA,Lupus,Blister,14.3346460288231
+28_blisterfluid,SmD2,IgA,Lupus,Blister,13.31944929315
+28_blisterfluid,SmD3,IgA,Lupus,Blister,6.7356575589924
+28_blisterfluid,SP100,IgA,Lupus,Blister,9.57801881497436
+28_blisterfluid,SRP54,IgA,Lupus,Blister,13.3574957856996
+28_blisterfluid,ssDNA,IgA,Lupus,Blister,19.7517057952193
+28_blisterfluid,Tau,IgA,Lupus,Blister,18.0450981950097
+28_blisterfluid,Thyroglobulin,IgA,Lupus,Blister,10.3406621251152
+28_blisterfluid,TIF1 gamma,IgA,Lupus,Blister,18.6330132143939
+28_blisterfluid,TLR4,IgA,Lupus,Blister,14.6802741879081
+28_blisterfluid,TNF-alpha,IgA,Lupus,Blister,8.19384934529485
+28_blisterfluid,TPO,IgA,Lupus,Blister,14.0478788539335
+28_blisterfluid,tTG,IgA,Lupus,Blister,16.312270112157
+28_blisterfluid,U1-snRNP 68/70kDa,IgA,Lupus,Blister,7.7971686559516
+28_blisterfluid,U1-snRNP A,IgA,Lupus,Blister,15.8883922103229
+28_blisterfluid,U1-snRNP C,IgA,Lupus,Blister,11.0670608654918
+28_blisterfluid,U-snRNP B/B,IgA,Lupus,Blister,12.5210775520429
+28_blisterfluid,Vimentin,IgA,Lupus,Blister,9.49998935238469
+28_blisterfluid,Vitronectin,IgA,Lupus,Blister,18.0095244485678
+28_blisterfluid,HIgControl 1,IgA,Lupus,Blister,21.9150123792743
+28_blisterfluid,HIgControl 2,IgA,Lupus,Blister,20.5608597803831
+28_blisterfluid,HIgControl 3,IgA,Lupus,Blister,19.4106770805086
+28_blisterfluid,HIgControl 4,IgA,Lupus,Blister,18.5345133187179
+28_blisterfluid,MIgControl 1,IgA,Lupus,Blister,17.4899252646377
+28_blisterfluid,MIgControl 2,IgA,Lupus,Blister,15.4167371721939
+28_blisterfluid,MIgControl 3,IgA,Lupus,Blister,14.5053882458787
+28_blisterfluid,MIgControl 4,IgA,Lupus,Blister,12.9618434153809
+30_blisterfluid,ACE2,IgA,Lupus,Blister,12.6808541837558
+30_blisterfluid,Aggrecan,IgA,Lupus,Blister,8.48437984939624
+30_blisterfluid,Alpha Fodrin,IgA,Lupus,Blister,12.3812894569136
+30_blisterfluid,Amyloid Beta(1-40),IgA,Lupus,Blister,9.83779150817162
+30_blisterfluid,Amyloid Beta(1-42),IgA,Lupus,Blister,13.4871160558141
+30_blisterfluid,AQP4,IgA,Lupus,Blister,13.6469629771183
+30_blisterfluid,BAFF,IgA,Lupus,Blister,11.518567348662
+30_blisterfluid,BCOADC-E2,IgA,Lupus,Blister,10.862119692039
+30_blisterfluid,Beta2-Glycoprotein 1,IgA,Lupus,Blister,11.0355297521133
+30_blisterfluid,BPI,IgA,Lupus,Blister,8.83289080511575
+30_blisterfluid,Calprotectin/S100,IgA,Lupus,Blister,10.1157563657743
+30_blisterfluid,CD4,IgA,Lupus,Blister,13.5301039149627
+30_blisterfluid,CD40,IgA,Lupus,Blister,11.1131316909674
+30_blisterfluid,CENP-A,IgA,Lupus,Blister,13.8119844685717
+30_blisterfluid,CENP-B,IgA,Lupus,Blister,15.3711537522002
+30_blisterfluid,Collagen I,IgA,Lupus,Blister,1.44269431942324e-06
+30_blisterfluid,Collagen II,IgA,Lupus,Blister,16.0153816199811
+30_blisterfluid,Collagen III,IgA,Lupus,Blister,12.3480755301073
+30_blisterfluid,Collagen IV,IgA,Lupus,Blister,8.33422411438266
+30_blisterfluid,Collagen V,IgA,Lupus,Blister,16.0199655128316
+30_blisterfluid,Complement C1q,IgA,Lupus,Blister,18.728751022113
+30_blisterfluid,Complement C3,IgA,Lupus,Blister,8.53242800953323
+30_blisterfluid,Complement C4,IgA,Lupus,Blister,10.6912089513511
+30_blisterfluid,Complement C5,IgA,Lupus,Blister,11.4107799220669
+30_blisterfluid,Complement C6,IgA,Lupus,Blister,11.8663358142384
+30_blisterfluid,Complement C7,IgA,Lupus,Blister,10.001990081322
+30_blisterfluid,Complement C8,IgA,Lupus,Blister,11.107868299515
+30_blisterfluid,Complement C9,IgA,Lupus,Blister,11.1820164034692
+30_blisterfluid,CRP,IgA,Lupus,Blister,12.4936522120203
+30_blisterfluid,Cytochrome C,IgA,Lupus,Blister,7.08982120411953
+30_blisterfluid,DFS70,IgA,Lupus,Blister,12.6560382156808
+30_blisterfluid,dsDNA,IgA,Lupus,Blister,16.2672228712928
+30_blisterfluid,EJ,IgA,Lupus,Blister,11.9757425736368
+30_blisterfluid,FACTOR B,IgA,Lupus,Blister,10.2383187483163
+30_blisterfluid,FACTOR H,IgA,Lupus,Blister,12.1534633646701
+30_blisterfluid,FACTOR I,IgA,Lupus,Blister,5.62643913669732
+30_blisterfluid,FACTOR P,IgA,Lupus,Blister,2.66896113781883e-05
+30_blisterfluid,Fibrinogen Type I-S,IgA,Lupus,Blister,11.857020692634
+30_blisterfluid,Fibronectin,IgA,Lupus,Blister,8.75016514119344
+30_blisterfluid,GAD65,IgA,Lupus,Blister,13.804405837288
+30_blisterfluid,GBM,IgA,Lupus,Blister,15.4474634692428
+30_blisterfluid,Genomic DNA,IgA,Lupus,Blister,16.1196127198869
+30_blisterfluid,Gliadin,IgA,Lupus,Blister,11.2000023113221
+30_blisterfluid,gp210,IgA,Lupus,Blister,15.9539752126108
+30_blisterfluid,GP2,IgA,Lupus,Blister,9.1506402725215
+30_blisterfluid,H/K-ATPase,IgA,Lupus,Blister,9.21855718206493
+30_blisterfluid,Histone,IgA,Lupus,Blister,19.9482500101321
+30_blisterfluid,Histone H1,IgA,Lupus,Blister,18.1799522436643
+30_blisterfluid,Histone H2A,IgA,Lupus,Blister,18.9701952809062
+30_blisterfluid,Histone H2B,IgA,Lupus,Blister,19.5457827275699
+30_blisterfluid,Histone H3,IgA,Lupus,Blister,15.6076221034141
+30_blisterfluid,HSPG,IgA,Lupus,Blister,11.0024469126787
+30_blisterfluid,IA-2,IgA,Lupus,Blister,12.1655351413779
+30_blisterfluid,IF,IgA,Lupus,Blister,11.1297331448566
+30_blisterfluid,IFN-gamma,IgA,Lupus,Blister,15.666027248787
+30_blisterfluid,IL-6,IgA,Lupus,Blister,9.60101675073772
+30_blisterfluid,IL-12/NKSF,IgA,Lupus,Blister,15.1933272997435
+30_blisterfluid,IL-17A,IgA,Lupus,Blister,13.6189453614229
+30_blisterfluid,Jo-1,IgA,Lupus,Blister,9.95877888908457
+30_blisterfluid,KS,IgA,Lupus,Blister,13.536914854114
+30_blisterfluid,KU (P70/P80),IgA,Lupus,Blister,13.5642477547541
+30_blisterfluid,La/SS-B,IgA,Lupus,Blister,19.0586396054335
+30_blisterfluid,Laminin,IgA,Lupus,Blister,13.1613431924071
+30_blisterfluid,LC1,IgA,Lupus,Blister,10.2916720437184
+30_blisterfluid,LKM 1,IgA,Lupus,Blister,10.2311155552443
+30_blisterfluid,LPS,IgA,Lupus,Blister,11.0466758980204
+30_blisterfluid,Lysozyme C,IgA,Lupus,Blister,8.97235663693112
+30_blisterfluid,M2,IgA,Lupus,Blister,13.3810885564177
+30_blisterfluid,MBP,IgA,Lupus,Blister,14.0088867013109
+30_blisterfluid,MDA5,IgA,Lupus,Blister,12.3915661589885
+30_blisterfluid,Mi-2,IgA,Lupus,Blister,8.55379726260245
+30_blisterfluid,Mitochondrion,IgA,Lupus,Blister,12.3885887324021
+30_blisterfluid,MPO,IgA,Lupus,Blister,17.1856305116799
+30_blisterfluid,Myosin,IgA,Lupus,Blister,5.24763324957837
+30_blisterfluid,Nrp1,IgA,Lupus,Blister,9.40498080009692
+30_blisterfluid,Nucleolin,IgA,Lupus,Blister,16.6281593565422
+30_blisterfluid,Nucleosome,IgA,Lupus,Blister,14.3022326445565
+30_blisterfluid,Nup 62,IgA,Lupus,Blister,13.3756514012986
+30_blisterfluid,NXP2,IgA,Lupus,Blister,12.0969419988018
+30_blisterfluid,OGDC-E2,IgA,Lupus,Blister,16.0618700813233
+30_blisterfluid,Ovalbumin,IgA,Lupus,Blister,14.3701390900846
+30_blisterfluid,P0,IgA,Lupus,Blister,14.4011271781419
+30_blisterfluid,P1,IgA,Lupus,Blister,15.3707957632056
+30_blisterfluid,P2,IgA,Lupus,Blister,13.3583584499619
+30_blisterfluid,PCNA,IgA,Lupus,Blister,9.70889075083436
+30_blisterfluid,PDC-E2,IgA,Lupus,Blister,11.8649289722898
+30_blisterfluid,PL-7,IgA,Lupus,Blister,14.5723781180997
+30_blisterfluid,PL-12,IgA,Lupus,Blister,11.1396418377474
+30_blisterfluid,PM/Scl-75,IgA,Lupus,Blister,11.2044794446163
+30_blisterfluid,PM/Scl 100,IgA,Lupus,Blister,13.119409069938
+30_blisterfluid,PR3,IgA,Lupus,Blister,6.83341511020961
+30_blisterfluid,Proteoglycan,IgA,Lupus,Blister,5.9649530529008
+30_blisterfluid,Prothrombin,IgA,Lupus,Blister,11.6475996309668
+30_blisterfluid,Ro/SS-A(52 kDa),IgA,Lupus,Blister,1.27441076931784
+30_blisterfluid,Ro/SS-A(60 Kda),IgA,Lupus,Blister,17.4356384391828
+30_blisterfluid,SAE1/SAE2,IgA,Lupus,Blister,12.1933085857543
+30_blisterfluid,Scl-70,IgA,Lupus,Blister,13.555921937127
+30_blisterfluid,SLA/LP,IgA,Lupus,Blister,10.9379975534664
+30_blisterfluid,Sm,IgA,Lupus,Blister,15.3249275836798
+30_blisterfluid,Sm/RNP,IgA,Lupus,Blister,14.8816042817843
+30_blisterfluid,SmD,IgA,Lupus,Blister,15.6939467106098
+30_blisterfluid,SmD1,IgA,Lupus,Blister,15.3379492219375
+30_blisterfluid,SmD2,IgA,Lupus,Blister,13.7225936186985
+30_blisterfluid,SmD3,IgA,Lupus,Blister,6.56360051346075
+30_blisterfluid,SP100,IgA,Lupus,Blister,6.86263735755879
+30_blisterfluid,SRP54,IgA,Lupus,Blister,15.6325049223209
+30_blisterfluid,ssDNA,IgA,Lupus,Blister,19.6496123065289
+30_blisterfluid,Tau,IgA,Lupus,Blister,17.7225157213896
+30_blisterfluid,Thyroglobulin,IgA,Lupus,Blister,10.00025075918
+30_blisterfluid,TIF1 gamma,IgA,Lupus,Blister,17.6678386745761
+30_blisterfluid,TLR4,IgA,Lupus,Blister,14.6834498103709
+30_blisterfluid,TNF-alpha,IgA,Lupus,Blister,5.17089648968588
+30_blisterfluid,TPO,IgA,Lupus,Blister,12.6653921047987
+30_blisterfluid,tTG,IgA,Lupus,Blister,14.3191238448725
+30_blisterfluid,U1-snRNP 68/70kDa,IgA,Lupus,Blister,6.9414614228779
+30_blisterfluid,U1-snRNP A,IgA,Lupus,Blister,16.2522375862851
+30_blisterfluid,U1-snRNP C,IgA,Lupus,Blister,11.4574834853128
+30_blisterfluid,U-snRNP B/B,IgA,Lupus,Blister,12.4124729935203
+30_blisterfluid,Vimentin,IgA,Lupus,Blister,10.8587709186551
+30_blisterfluid,Vitronectin,IgA,Lupus,Blister,15.5672601835474
+30_blisterfluid,HIgControl 1,IgA,Lupus,Blister,22.3302184018987
+30_blisterfluid,HIgControl 2,IgA,Lupus,Blister,20.9945198024032
+30_blisterfluid,HIgControl 3,IgA,Lupus,Blister,19.2931434980873
+30_blisterfluid,HIgControl 4,IgA,Lupus,Blister,16.8483664552879
+30_blisterfluid,MIgControl 1,IgA,Lupus,Blister,16.2876498869586
+30_blisterfluid,MIgControl 2,IgA,Lupus,Blister,14.588911572848
+30_blisterfluid,MIgControl 3,IgA,Lupus,Blister,13.341302541766
+30_blisterfluid,MIgControl 4,IgA,Lupus,Blister,11.0949751310596
