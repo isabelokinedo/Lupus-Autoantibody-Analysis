@@ -507,10 +507,10 @@ annotation_data <- significant_tukey |>
 # 10. FIGURE STYLE
 # ------------------------------------------------------------
 
-# OIND is blue and NPSLE is red.
+# OIND is black and NPSLE is purple
 diagnosis_colors <- c(
-  "OIND" = "#4575B4",
-  "NPSLE" = "#D73027"
+  "OIND" = "#000000",
+  "NPSLE" = "#A94FE8"
 )
 
 
