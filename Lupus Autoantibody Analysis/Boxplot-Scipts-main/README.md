@@ -1,4 +1,4 @@
-# Lupus Autoantibody Dotplot Plot Analysis
+# Lupus Autoantibody Boxplot Plot Analysis
 
 This repository contains the R script used to analyze antibody-specific boxplots and statistical output tables frp, R-ready autoantibody data:
   CLE compartment analysis: CLE blister fluid (BF) vs plasma, displayed across IgA, IgG, and IgM
